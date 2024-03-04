@@ -1,0 +1,1999 @@
+[i] - 1133671664 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133671664 - child workerEnv in error state 6
+[i] - 1133671868 - Found child 6725 in scoreboard slot 10
+[i] - 1133671869 - Found child 6726 in scoreboard slot 8
+[i] - 1133671869 - Found child 6728 in scoreboard slot 6
+[i] - 1133671874 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133671874 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133671874 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133671878 - child workerEnv in error state 6
+[✗] - 1133671878 - child workerEnv in error state 6
+[✗] - 1133671878 - child workerEnv in error state 6
+[i] - 1133671897 - Found child 6736 in scoreboard slot 10
+[i] - 1133671898 - Found child 6733 in scoreboard slot 7
+[i] - 1133671898 - Found child 6734 in scoreboard slot 9
+[i] - 1133671912 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133671912 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133671915 - child workerEnv in error state 6
+[i] - 1133671924 - Found child 6738 in scoreboard slot 6
+[i] - 1133671924 - Found child 6741 in scoreboard slot 9
+[i] - 1133671925 - Found child 6740 in scoreboard slot 7
+[i] - 1133671925 - Found child 6737 in scoreboard slot 8
+[i] - 1133671932 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133671932 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133671932 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133671935 - child workerEnv in error state 6
+[✗] - 1133671935 - child workerEnv in error state 7
+[✗] - 1133671935 - child workerEnv in error state 7
+[i] - 1133671956 - Found child 6748 in scoreboard slot 6
+[i] - 1133671956 - Found child 6744 in scoreboard slot 10
+[i] - 1133671956 - Found child 6745 in scoreboard slot 8
+[i] - 1133671969 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133671969 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133671972 - child workerEnv in error state 7
+[✗] - 1133671972 - child workerEnv in error state 6
+[i] - 1133671985 - Found child 6750 in scoreboard slot 7
+[i] - 1133671985 - Found child 6751 in scoreboard slot 9
+[i] - 1133671985 - Found child 6752 in scoreboard slot 10
+[i] - 1133671995 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133671995 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133671996 - child workerEnv in error state 7
+[✗] - 1133671996 - child workerEnv in error state 6
+[i] - 1133672009 - Found child 6754 in scoreboard slot 8
+[i] - 1133672009 - Found child 6755 in scoreboard slot 6
+[i] - 1133672020 - Found child 6756 in scoreboard slot 7
+[i] - 1133672031 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672034 - child workerEnv in error state 7
+[i] - 1133672055 - Found child 6763 in scoreboard slot 10
+[i] - 1133672055 - Found child 6766 in scoreboard slot 6
+[i] - 1133672055 - Found child 6767 in scoreboard slot 7
+[i] - 1133672055 - Found child 6765 in scoreboard slot 8
+[i] - 1133672058 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133672058 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133672058 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133672058 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672058 - child workerEnv in error state 6
+[✗] - 1133672058 - child workerEnv in error state 6
+[✗] - 1133672058 - child workerEnv in error state 7
+[✗] - 1133672058 - child workerEnv in error state 7
+[i] - 1133672060 - Found child 6768 in scoreboard slot 9
+[i] - 1133672060 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672060 - child workerEnv in error state 6
+[i] - 1133672212 - Found child 8527 in scoreboard slot 10
+[i] - 1133672212 - Found child 8533 in scoreboard slot 8
+[i] - 1133672217 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133672217 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672219 - child workerEnv in error state 6
+[✗] - 1133672220 - child workerEnv in error state 6
+[i] - 1133672240 - Found child 8536 in scoreboard slot 6
+[i] - 1133672240 - Found child 8539 in scoreboard slot 7
+[i] - 1133672244 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133672244 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672244 - child workerEnv in error state 6
+[✗] - 1133672244 - child workerEnv in error state 6
+[i] - 1133672269 - Found child 8541 in scoreboard slot 9
+[i] - 1133672291 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672298 - child workerEnv in error state 6
+[i] - 1133672325 - Found child 8547 in scoreboard slot 10
+[i] - 1133672337 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672338 - child workerEnv in error state 6
+[i] - 1133672368 - Found child 8554 in scoreboard slot 6
+[i] - 1133672367 - Found child 8553 in scoreboard slot 8
+[i] - 1133672375 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133672375 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672378 - child workerEnv in error state 6
+[✗] - 1133672378 - child workerEnv in error state 6
+[i] - 1133672403 - Found child 8560 in scoreboard slot 7
+[i] - 1133672409 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672409 - child workerEnv in error state 6
+[i] - 1133672413 - Found child 8565 in scoreboard slot 9
+[i] - 1133672413 - Found child 8573 in scoreboard slot 10
+[i] - 1133672415 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672415 - child workerEnv in error state 6
+[i] - 1133672415 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672415 - child workerEnv in error state 6
+[i] - 1133672480 - Found child 8584 in scoreboard slot 7
+[i] - 1133672480 - Found child 8587 in scoreboard slot 9
+[i] - 1133672534 - Found child 8603 in scoreboard slot 10
+[i] - 1133672534 - Found child 8605 in scoreboard slot 8
+[i] - 1133672643 - Found child 8764 in scoreboard slot 10
+[i] - 1133672643 - Found child 8765 in scoreboard slot 11
+[i] - 1133672643 - Found child 8763 in scoreboard slot 9
+[i] - 1133672643 - Found child 8744 in scoreboard slot 8
+[i] - 1133672643 - Found child 8743 in scoreboard slot 7
+[i] - 1133672643 - Found child 8738 in scoreboard slot 6
+[i] - 1133672643 - Found child 8766 in scoreboard slot 12
+[i] - 1133672644 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672644 - child workerEnv in error state 7
+[i] - 1133672644 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672644 - child workerEnv in error state 6
+[i] - 1133672644 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672644 - child workerEnv in error state 7
+[i] - 1133672644 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672644 - child workerEnv in error state 7
+[i] - 1133672644 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672644 - child workerEnv in error state 7
+[i] - 1133672644 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672644 - child workerEnv in error state 6
+[i] - 1133672644 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133672644 - child workerEnv in error state 6
+[i] - 1133673111 - Found child 25792 in scoreboard slot 6
+[i] - 1133673127 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133673130 - child workerEnv in error state 6
+[i] - 1133673146 - Found child 25798 in scoreboard slot 7
+[i] - 1133673146 - Found child 25803 in scoreboard slot 8
+[i] - 1133673148 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133673148 - child workerEnv in error state 6
+[i] - 1133673148 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133673148 - child workerEnv in error state 6
+[i] - 1133673150 - Found child 25805 in scoreboard slot 9
+[i] - 1133673150 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133673150 - child workerEnv in error state 6
+[✗] - 1133673309 - 222.166.160.184] Directory index forbidden by rule: /var/www/html/
+[i] - 1133673313 - Found child 1000 in scoreboard slot 10
+[i] - 1133673316 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133673316 - child workerEnv in error state 6
+[i] - 1133676060 - Found child 32347 in scoreboard slot 6
+[i] - 1133676060 - Found child 32348 in scoreboard slot 7
+[i] - 1133676081 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133676081 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676090 - child workerEnv in error state 6
+[i] - 1133676102 - Found child 32352 in scoreboard slot 9
+[i] - 1133676102 - Found child 32353 in scoreboard slot 10
+[i] - 1133676102 - Found child 32354 in scoreboard slot 6
+[i] - 1133676121 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676122 - child workerEnv in error state 7
+[i] - 1133676125 - Found child 32359 in scoreboard slot 9
+[i] - 1133676125 - Found child 32360 in scoreboard slot 11
+[i] - 1133676125 - Found child 32358 in scoreboard slot 8
+[i] - 1133676125 - Found child 32355 in scoreboard slot 7
+[i] - 1133676127 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676127 - child workerEnv in error state 7
+[i] - 1133676127 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676127 - child workerEnv in error state 6
+[i] - 1133676127 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676127 - child workerEnv in error state 6
+[i] - 1133676127 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676127 - child workerEnv in error state 6
+[i] - 1133676360 - Found child 32388 in scoreboard slot 8
+[i] - 1133676360 - Found child 32387 in scoreboard slot 7
+[i] - 1133676360 - Found child 32386 in scoreboard slot 6
+[i] - 1133676370 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133676371 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676372 - child workerEnv in error state 6
+[✗] - 1133676372 - child workerEnv in error state 6
+[i] - 1133676380 - Found child 32389 in scoreboard slot 9
+[i] - 1133676384 - Found child 32391 in scoreboard slot 10
+[i] - 1133676384 - Found child 32390 in scoreboard slot 8
+[i] - 1133676384 - Found child 32392 in scoreboard slot 6
+[i] - 1133676386 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676386 - child workerEnv in error state 7
+[i] - 1133676386 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676386 - child workerEnv in error state 6
+[i] - 1133676386 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676386 - child workerEnv in error state 6
+[i] - 1133676386 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676386 - child workerEnv in error state 7
+[i] - 1133676671 - Found child 32410 in scoreboard slot 7
+[i] - 1133676671 - Found child 32411 in scoreboard slot 9
+[i] - 1133676751 - Found child 32423 in scoreboard slot 9
+[i] - 1133676751 - Found child 32422 in scoreboard slot 8
+[i] - 1133676751 - Found child 32419 in scoreboard slot 6
+[i] - 1133676751 - Found child 32421 in scoreboard slot 11
+[i] - 1133676751 - Found child 32420 in scoreboard slot 7
+[i] - 1133676751 - Found child 32424 in scoreboard slot 10
+[i] - 1133676757 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133676757 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133676757 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133676757 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133676757 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676760 - child workerEnv in error state 6
+[✗] - 1133676760 - child workerEnv in error state 6
+[✗] - 1133676760 - child workerEnv in error state 6
+[✗] - 1133676760 - child workerEnv in error state 7
+[✗] - 1133676760 - child workerEnv in error state 7
+[i] - 1133676779 - Found child 32425 in scoreboard slot 6
+[i] - 1133676781 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676781 - child workerEnv in error state 6
+[i] - 1133676970 - Found child 32432 in scoreboard slot 7
+[i] - 1133676970 - Found child 32434 in scoreboard slot 9
+[i] - 1133676970 - Found child 32433 in scoreboard slot 8
+[i] - 1133676981 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133676981 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676983 - child workerEnv in error state 6
+[✗] - 1133676983 - child workerEnv in error state 7
+[i] - 1133676981 - Found child 32435 in scoreboard slot 10
+[i] - 1133676981 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676983 - child workerEnv in error state 6
+[i] - 1133676997 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133676999 - child workerEnv in error state 6
+[i] - 1133677011 - Found child 32436 in scoreboard slot 6
+[i] - 1133677011 - Found child 32437 in scoreboard slot 7
+[i] - 1133677022 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133677022 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133677025 - child workerEnv in error state 6
+[i] - 1133677026 - Found child 32438 in scoreboard slot 8
+[i] - 1133677038 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133677044 - child workerEnv in error state 6
+[i] - 1133677043 - Found child 32440 in scoreboard slot 10
+[i] - 1133677043 - Found child 32439 in scoreboard slot 9
+[i] - 1133677043 - Found child 32441 in scoreboard slot 6
+[i] - 1133677053 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133677053 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133677055 - child workerEnv in error state 6
+[✗] - 1133677055 - child workerEnv in error state 7
+[i] - 1133677075 - Found child 32442 in scoreboard slot 7
+[i] - 1133677075 - Found child 32443 in scoreboard slot 8
+[i] - 1133677075 - Found child 32444 in scoreboard slot 9
+[i] - 1133677088 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133677088 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133677091 - child workerEnv in error state 7
+[✗] - 1133677091 - child workerEnv in error state 6
+[i] - 1133677092 - Found child 32445 in scoreboard slot 10
+[i] - 1133677103 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133677111 - child workerEnv in error state 6
+[i] - 1133677121 - Found child 32447 in scoreboard slot 7
+[i] - 1133677119 - Found child 32446 in scoreboard slot 6
+[i] - 1133677120 - Found child 32448 in scoreboard slot 8
+[i] - 1133677133 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133677133 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133677135 - child workerEnv in error state 6
+[✗] - 1133677135 - child workerEnv in error state 7
+[i] - 1133677145 - Found child 32449 in scoreboard slot 9
+[i] - 1133677155 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133677159 - Found child 32450 in scoreboard slot 10
+[✗] - 1133677158 - child workerEnv in error state 6
+[i] - 1133677159 - Found child 32452 in scoreboard slot 7
+[i] - 1133677159 - Found child 32451 in scoreboard slot 6
+[i] - 1133677171 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133677171 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133677174 - child workerEnv in error state 6
+[✗] - 1133677174 - child workerEnv in error state 7
+[i] - 1133677196 - Found child 32454 in scoreboard slot 7
+[i] - 1133677196 - Found child 32453 in scoreboard slot 8
+[i] - 1133677196 - Found child 32455 in scoreboard slot 9
+[i] - 1133677230 - Found child 32467 in scoreboard slot 9
+[i] - 1133677230 - Found child 32464 in scoreboard slot 8
+[i] - 1133677230 - Found child 32465 in scoreboard slot 7
+[i] - 1133677230 - Found child 32466 in scoreboard slot 11
+[i] - 1133677230 - Found child 32457 in scoreboard slot 6
+[i] - 1133677244 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133677244 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133677244 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133677246 - child workerEnv in error state 6
+[✗] - 1133677246 - child workerEnv in error state 7
+[✗] - 1133677246 - child workerEnv in error state 8
+[i] - 1133677338 - Found child 32475 in scoreboard slot 8
+[i] - 1133677368 - Found child 32478 in scoreboard slot 11
+[i] - 1133677368 - Found child 32477 in scoreboard slot 10
+[i] - 1133677368 - Found child 32479 in scoreboard slot 6
+[i] - 1133677368 - Found child 32480 in scoreboard slot 8
+[i] - 1133677368 - Found child 32476 in scoreboard slot 7
+[i] - 1133677373 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133677373 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133677373 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133677373 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133677373 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133677375 - child workerEnv in error state 6
+[✗] - 1133677375 - child workerEnv in error state 6
+[✗] - 1133677375 - child workerEnv in error state 6
+[✗] - 1133677375 - child workerEnv in error state 7
+[✗] - 1133677375 - child workerEnv in error state 8
+[i] - 1133677392 - Found child 32483 in scoreboard slot 7
+[i] - 1133677395 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133677395 - child workerEnv in error state 6
+[i] - 1133677841 - Found child 32507 in scoreboard slot 9
+[i] - 1133677843 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133677843 - child workerEnv in error state 6
+[i] - 1133678167 - Found child 32529 in scoreboard slot 6
+[i] - 1133678167 - Found child 32528 in scoreboard slot 10
+[i] - 1133678170 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133678170 - child workerEnv in error state 6
+[i] - 1133678170 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133678170 - child workerEnv in error state 6
+[i] - 1133678454 - Found child 32548 in scoreboard slot 9
+[i] - 1133678454 - Found child 32546 in scoreboard slot 8
+[i] - 1133678455 - Found child 32547 in scoreboard slot 7
+[i] - 1133678464 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133678464 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133678464 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133678467 - child workerEnv in error state 6
+[✗] - 1133678468 - child workerEnv in error state 6
+[✗] - 1133678468 - child workerEnv in error state 6
+[i] - 1133678489 - Found child 32549 in scoreboard slot 10
+[i] - 1133678489 - Found child 32550 in scoreboard slot 6
+[i] - 1133678505 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133678505 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133678506 - child workerEnv in error state 6
+[✗] - 1133678506 - child workerEnv in error state 6
+[i] - 1133678531 - Found child 32551 in scoreboard slot 8
+[i] - 1133678531 - Found child 32552 in scoreboard slot 7
+[i] - 1133678545 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133678543 - Found child 32554 in scoreboard slot 10
+[i] - 1133678545 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133678543 - Found child 32553 in scoreboard slot 9
+[✗] - 1133678550 - child workerEnv in error state 6
+[✗] - 1133678550 - child workerEnv in error state 6
+[i] - 1133678573 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133678573 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133678578 - child workerEnv in error state 6
+[✗] - 1133678578 - child workerEnv in error state 6
+[i] - 1133678600 - Found child 32556 in scoreboard slot 8
+[i] - 1133678600 - Found child 32555 in scoreboard slot 6
+[i] - 1133678600 - Found child 32557 in scoreboard slot 7
+[i] - 1133678614 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133678614 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133678614 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133678620 - child workerEnv in error state 6
+[✗] - 1133678620 - child workerEnv in error state 6
+[i] - 1133678636 - Found child 32558 in scoreboard slot 9
+[i] - 1133678658 - Found child 32560 in scoreboard slot 6
+[i] - 1133678658 - Found child 32561 in scoreboard slot 8
+[i] - 1133678679 - Found child 32563 in scoreboard slot 9
+[i] - 1133678679 - Found child 32564 in scoreboard slot 10
+[i] - 1133678679 - Found child 32565 in scoreboard slot 11
+[i] - 1133678732 - Found child 32575 in scoreboard slot 6
+[i] - 1133678732 - Found child 32576 in scoreboard slot 7
+[i] - 1133678732 - Found child 32569 in scoreboard slot 9
+[i] - 1133678732 - Found child 32572 in scoreboard slot 10
+[i] - 1133678732 - Found child 32577 in scoreboard slot 11
+[i] - 1133678750 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133678750 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133678757 - child workerEnv in error state 7
+[i] - 1133678773 - Found child 32578 in scoreboard slot 8
+[i] - 1133678773 - Found child 32580 in scoreboard slot 6
+[i] - 1133678772 - Found child 32581 in scoreboard slot 7
+[i] - 1133678773 - Found child 32579 in scoreboard slot 9
+[i] - 1133678790 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133678790 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133678791 - child workerEnv in error state 8
+[✗] - 1133678791 - child workerEnv in error state 7
+[i] - 1133678792 - Found child 32582 in scoreboard slot 10
+[i] - 1133678792 - Found child 32584 in scoreboard slot 9
+[i] - 1133678792 - Found child 32583 in scoreboard slot 8
+[i] - 1133678793 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133678793 - child workerEnv in error state 8
+[i] - 1133678794 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133678794 - child workerEnv in error state 10
+[i] - 1133678794 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133678794 - child workerEnv in error state 8
+[i] - 1133678839 - Found child 32585 in scoreboard slot 6
+[i] - 1133678850 - Found child 32587 in scoreboard slot 10
+[i] - 1133678850 - Found child 32586 in scoreboard slot 7
+[i] - 1133678854 - Found child 32588 in scoreboard slot 8
+[i] - 1133678858 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133678859 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133678859 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133678863 - child workerEnv in error state 6
+[i] - 1133678889 - Found child 32592 in scoreboard slot 10
+[i] - 1133678889 - Found child 32591 in scoreboard slot 7
+[i] - 1133678902 - Found child 32594 in scoreboard slot 6
+[i] - 1133678902 - Found child 32593 in scoreboard slot 8
+[i] - 1133678928 - Found child 32597 in scoreboard slot 10
+[i] - 1133678946 - Found child 32600 in scoreboard slot 9
+[i] - 1133678946 - Found child 32601 in scoreboard slot 7
+[i] - 1133678963 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133678964 - child workerEnv in error state 8
+[i] - 1133678980 - Found child 32605 in scoreboard slot 9
+[i] - 1133678980 - Found child 32604 in scoreboard slot 6
+[i] - 1133679073 - Found child 32622 in scoreboard slot 7
+[i] - 1133679074 - Found child 32623 in scoreboard slot 11
+[i] - 1133679073 - Found child 32624 in scoreboard slot 8
+[i] - 1133679073 - Found child 32621 in scoreboard slot 9
+[i] - 1133679083 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679083 - child workerEnv in error state 7
+[i] - 1133679083 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679083 - child workerEnv in error state 6
+[i] - 1133679083 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679083 - child workerEnv in error state 8
+[i] - 1133679083 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679083 - child workerEnv in error state 6
+[i] - 1133679085 - Found child 32626 in scoreboard slot 6
+[i] - 1133679086 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679086 - child workerEnv in error state 9
+[i] - 1133679127 - Found child 32627 in scoreboard slot 9
+[i] - 1133679128 - Found child 32628 in scoreboard slot 7
+[i] - 1133679133 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133679134 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679135 - child workerEnv in error state 6
+[✗] - 1133679135 - child workerEnv in error state 6
+[i] - 1133679147 - Found child 32630 in scoreboard slot 8
+[i] - 1133679147 - Found child 32629 in scoreboard slot 10
+[i] - 1133679159 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133679159 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679161 - child workerEnv in error state 9
+[✗] - 1133679161 - child workerEnv in error state 6
+[i] - 1133679184 - Found child 32633 in scoreboard slot 9
+[i] - 1133679184 - Found child 32634 in scoreboard slot 11
+[i] - 1133679184 - Found child 32632 in scoreboard slot 7
+[i] - 1133679203 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679206 - child workerEnv in error state 6
+[i] - 1133679218 - Found child 32636 in scoreboard slot 6
+[i] - 1133679217 - Found child 32637 in scoreboard slot 7
+[i] - 1133679217 - Found child 32638 in scoreboard slot 9
+[i] - 1133679244 - Found child 32640 in scoreboard slot 8
+[i] - 1133679244 - Found child 32641 in scoreboard slot 6
+[i] - 1133679244 - Found child 32642 in scoreboard slot 7
+[i] - 1133679275 - Found child 32646 in scoreboard slot 6
+[i] - 1133679300 - Found child 32648 in scoreboard slot 9
+[i] - 1133679300 - Found child 32652 in scoreboard slot 7
+[i] - 1133679300 - Found child 32649 in scoreboard slot 10
+[i] - 1133679300 - Found child 32651 in scoreboard slot 6
+[i] - 1133679300 - Found child 32650 in scoreboard slot 8
+[i] - 1133679319 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133679319 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133679319 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679323 - child workerEnv in error state 6
+[✗] - 1133679323 - child workerEnv in error state 8
+[✗] - 1133679323 - child workerEnv in error state 9
+[i] - 1133679355 - Found child 32660 in scoreboard slot 6
+[i] - 1133679354 - Found child 32658 in scoreboard slot 10
+[i] - 1133679354 - Found child 32659 in scoreboard slot 8
+[i] - 1133679354 - Found child 32657 in scoreboard slot 9
+[i] - 1133679370 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679377 - child workerEnv in error state 6
+[i] - 1133679397 - Found child 32663 in scoreboard slot 10
+[i] - 1133679397 - Found child 32664 in scoreboard slot 8
+[i] - 1133679439 - Found child 32670 in scoreboard slot 6
+[i] - 1133679439 - Found child 32667 in scoreboard slot 9
+[i] - 1133679439 - Found child 32668 in scoreboard slot 10
+[i] - 1133679439 - Found child 32669 in scoreboard slot 8
+[i] - 1133679439 - Found child 32671 in scoreboard slot 7
+[i] - 1133679443 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133679443 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679443 - child workerEnv in error state 6
+[✗] - 1133679443 - child workerEnv in error state 6
+[i] - 1133679443 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679443 - child workerEnv in error state 9
+[i] - 1133679443 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679443 - child workerEnv in error state 8
+[i] - 1133679444 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679444 - child workerEnv in error state 9
+[i] - 1133679492 - Found child 32674 in scoreboard slot 8
+[i] - 1133679493 - Found child 32672 in scoreboard slot 9
+[i] - 1133679493 - Found child 32673 in scoreboard slot 10
+[i] - 1133679507 - Found child 32675 in scoreboard slot 6
+[i] - 1133679508 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133679508 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679509 - child workerEnv in error state 6
+[✗] - 1133679509 - child workerEnv in error state 6
+[i] - 1133679531 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679533 - child workerEnv in error state 6
+[i] - 1133679534 - Found child 32677 in scoreboard slot 7
+[i] - 1133679534 - Found child 32676 in scoreboard slot 9
+[i] - 1133679534 - Found child 32678 in scoreboard slot 10
+[i] - 1133679568 - Found child 32679 in scoreboard slot 8
+[i] - 1133679568 - Found child 32680 in scoreboard slot 6
+[i] - 1133679574 - Found child 32681 in scoreboard slot 9
+[i] - 1133679574 - Found child 32682 in scoreboard slot 7
+[i] - 1133679578 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679580 - child workerEnv in error state 6
+[i] - 1133679585 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133679585 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679587 - child workerEnv in error state 8
+[✗] - 1133679587 - child workerEnv in error state 7
+[i] - 1133679599 - Found child 32683 in scoreboard slot 10
+[i] - 1133679606 - Found child 32685 in scoreboard slot 6
+[i] - 1133679632 - Found child 32688 in scoreboard slot 11
+[i] - 1133679632 - Found child 32695 in scoreboard slot 8
+[i] - 1133679632 - Found child 32696 in scoreboard slot 6
+[i] - 1133679685 - Found child 32701 in scoreboard slot 10
+[i] - 1133679686 - Found child 32702 in scoreboard slot 11
+[i] - 1133679715 - Found child 32711 in scoreboard slot 10
+[i] - 1133679715 - Found child 32708 in scoreboard slot 7
+[i] - 1133679715 - Found child 32710 in scoreboard slot 9
+[i] - 1133679715 - Found child 32709 in scoreboard slot 8
+[i] - 1133679717 - Found child 32712 in scoreboard slot 6
+[i] - 1133679721 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133679721 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133679721 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133679721 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133679721 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133679723 - child workerEnv in error state 9
+[✗] - 1133679723 - child workerEnv in error state 8
+[✗] - 1133679723 - child workerEnv in error state 8
+[✗] - 1133679723 - child workerEnv in error state 6
+[✗] - 1133679723 - child workerEnv in error state 6
+[i] - 1133679772 - Found child 32713 in scoreboard slot 7
+[i] - 1133679803 - Found child 32717 in scoreboard slot 10
+[i] - 1133679828 - Found child 32720 in scoreboard slot 8
+[i] - 1133679867 - Found child 32726 in scoreboard slot 8
+[i] - 1133679895 - Found child 32730 in scoreboard slot 7
+[i] - 1133679895 - Found child 32729 in scoreboard slot 6
+[i] - 1133679895 - Found child 32731 in scoreboard slot 8
+[i] - 1133679944 - Found child 32739 in scoreboard slot 7
+[i] - 1133679944 - Found child 32740 in scoreboard slot 8
+[i] - 1133679971 - Found child 32742 in scoreboard slot 10
+[i] - 1133680043 - Found child 32758 in scoreboard slot 7
+[i] - 1133680043 - Found child 32755 in scoreboard slot 8
+[i] - 1133680043 - Found child 32754 in scoreboard slot 11
+[i] - 1133680050 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133680050 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133680050 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680050 - child workerEnv in error state 9
+[✗] - 1133680050 - child workerEnv in error state 10
+[✗] - 1133680050 - child workerEnv in error state 8
+[i] - 1133680082 - Found child 32761 in scoreboard slot 6
+[i] - 1133680082 - Found child 32762 in scoreboard slot 9
+[i] - 1133680082 - Found child 32763 in scoreboard slot 10
+[i] - 1133680084 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680084 - child workerEnv in error state 7
+[i] - 1133680084 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680084 - child workerEnv in error state 6
+[i] - 1133680084 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680084 - child workerEnv in error state 7
+[i] - 1133680254 - Found child 308 in scoreboard slot 8
+[i] - 1133680264 - Found child 310 in scoreboard slot 6
+[i] - 1133680264 - Found child 309 in scoreboard slot 7
+[i] - 1133680265 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680265 - child workerEnv in error state 6
+[i] - 1133680273 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133680273 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680282 - child workerEnv in error state 6
+[✗] - 1133680282 - child workerEnv in error state 6
+[i] - 1133680309 - Found child 311 in scoreboard slot 9
+[i] - 1133680325 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680328 - child workerEnv in error state 6
+[i] - 1133680342 - Found child 312 in scoreboard slot 10
+[i] - 1133680342 - Found child 313 in scoreboard slot 8
+[i] - 1133680360 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133680360 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680364 - child workerEnv in error state 6
+[✗] - 1133680364 - child workerEnv in error state 6
+[i] - 1133680389 - Found child 314 in scoreboard slot 7
+[i] - 1133680389 - Found child 315 in scoreboard slot 6
+[i] - 1133680390 - Found child 316 in scoreboard slot 9
+[i] - 1133680416 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133680416 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133680416 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680421 - child workerEnv in error state 6
+[✗] - 1133680421 - child workerEnv in error state 6
+[i] - 1133680447 - Found child 319 in scoreboard slot 7
+[i] - 1133680447 - Found child 317 in scoreboard slot 10
+[i] - 1133680448 - Found child 318 in scoreboard slot 8
+[i] - 1133680461 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680469 - child workerEnv in error state 7
+[i] - 1133680487 - Found child 321 in scoreboard slot 9
+[i] - 1133680509 - Found child 324 in scoreboard slot 11
+[i] - 1133680509 - Found child 323 in scoreboard slot 8
+[i] - 1133680676 - Found child 350 in scoreboard slot 9
+[i] - 1133680676 - Found child 353 in scoreboard slot 12
+[i] - 1133680676 - Found child 352 in scoreboard slot 11
+[i] - 1133680676 - Found child 349 in scoreboard slot 8
+[i] - 1133680676 - Found child 348 in scoreboard slot 7
+[i] - 1133680676 - Found child 347 in scoreboard slot 6
+[i] - 1133680676 - Found child 351 in scoreboard slot 10
+[i] - 1133680680 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680680 - child workerEnv in error state 7
+[i] - 1133680680 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680680 - child workerEnv in error state 6
+[i] - 1133680680 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680680 - child workerEnv in error state 7
+[i] - 1133680680 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680680 - child workerEnv in error state 8
+[i] - 1133680680 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680680 - child workerEnv in error state 7
+[i] - 1133680680 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680680 - child workerEnv in error state 6
+[i] - 1133680680 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133680680 - child workerEnv in error state 7
+[✗] - 1133682345 - 63.13.186.196] Directory index forbidden by rule: /var/www/html/
+[✗] - 1133686457 - 147.31.138.75] Directory index forbidden by rule: /var/www/html/
+[✗] - 1133688912 - 207.203.80.15] Directory index forbidden by rule: /var/www/html/
+[✗] - 1133693610 - 218.76.139.20] Directory index forbidden by rule: /var/www/html/
+[✗] - 1133694667 - 24.147.151.74] Directory index forbidden by rule: /var/www/html/
+[✗] - 1133695998 - 211.141.93.88] Directory index forbidden by rule: /var/www/html/
+[✗] - 1133696563 - 216.127.124.16] Directory index forbidden by rule: /var/www/html/
+[✗] - 1133699593 - 208.51.151.210] Directory index forbidden by rule: /var/www/html/
+[✗] - 1133703152 - 65.68.235.27] Directory index forbidden by rule: /var/www/html/
+[✗] - 1133706540 - 4.245.93.87] Directory index forbidden by rule: /var/www/html/
+[✗] - 1133709516 - 67.154.58.130] Directory index forbidden by rule: /var/www/html/
+[✗] - 1133711941 - 24.83.37.136] Directory index forbidden by rule: /var/www/html/
+[i] - 1133713443 - Found child 1219 in scoreboard slot 6
+[✗] - 1133713445 - 58.225.62.140] Directory index forbidden by rule: /var/www/html/
+[i] - 1133713446 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133713446 - child workerEnv in error state 6
+[i] - 1133713867 - Found child 1248 in scoreboard slot 7
+[i] - 1133713957 - Found child 1253 in scoreboard slot 9
+[i] - 1133713976 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133713976 - child workerEnv in error state 6
+[i] - 1133713978 - Found child 1254 in scoreboard slot 7
+[i] - 1133713978 - Found child 1256 in scoreboard slot 6
+[i] - 1133713978 - Found child 1255 in scoreboard slot 8
+[i] - 1133713978 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133713978 - child workerEnv in error state 7
+[i] - 1133713978 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133713978 - child workerEnv in error state 6
+[i] - 1133713978 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133713978 - child workerEnv in error state 6
+[i] - 1133714149 - Found child 1262 in scoreboard slot 9
+[i] - 1133714152 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133714152 - child workerEnv in error state 6
+[i] - 1133714475 - Found child 1275 in scoreboard slot 6
+[i] - 1133714476 - Found child 1276 in scoreboard slot 9
+[i] - 1133714482 - Found child 1277 in scoreboard slot 7
+[i] - 1133714482 - Found child 1278 in scoreboard slot 8
+[i] - 1133714482 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133714482 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133714482 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133714482 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133714482 - child workerEnv in error state 6
+[✗] - 1133714482 - child workerEnv in error state 6
+[✗] - 1133714482 - child workerEnv in error state 6
+[✗] - 1133714482 - child workerEnv in error state 6
+[i] - 1133714752 - Found child 1283 in scoreboard slot 6
+[i] - 1133714752 - Found child 1284 in scoreboard slot 9
+[i] - 1133714769 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133714773 - child workerEnv in error state 6
+[i] - 1133714805 - Found child 1288 in scoreboard slot 9
+[i] - 1133714831 - Found child 1291 in scoreboard slot 6
+[i] - 1133714879 - Found child 1296 in scoreboard slot 6
+[i] - 1133714879 - Found child 1300 in scoreboard slot 10
+[i] - 1133714879 - Found child 1298 in scoreboard slot 8
+[i] - 1133714879 - Found child 1297 in scoreboard slot 7
+[i] - 1133714879 - Found child 1299 in scoreboard slot 9
+[i] - 1133714881 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133714881 - child workerEnv in error state 8
+[i] - 1133714881 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133714881 - child workerEnv in error state 7
+[i] - 1133714881 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133714881 - child workerEnv in error state 6
+[i] - 1133714881 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133714881 - child workerEnv in error state 6
+[i] - 1133714881 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133714881 - child workerEnv in error state 6
+[i] - 1133715053 - Found child 1308 in scoreboard slot 6
+[i] - 1133715053 - Found child 1309 in scoreboard slot 7
+[i] - 1133715086 - Found child 1313 in scoreboard slot 6
+[i] - 1133715086 - Found child 1312 in scoreboard slot 10
+[i] - 1133715154 - Found child 1320 in scoreboard slot 8
+[i] - 1133715165 - Found child 1321 in scoreboard slot 9
+[i] - 1133715165 - Found child 1322 in scoreboard slot 10
+[i] - 1133715165 - Found child 1323 in scoreboard slot 6
+[i] - 1133715166 - Found child 1324 in scoreboard slot 7
+[i] - 1133715166 - Found child 1325 in scoreboard slot 8
+[i] - 1133715169 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133715169 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133715169 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133715169 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133715169 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133715169 - child workerEnv in error state 6
+[✗] - 1133715169 - child workerEnv in error state 7
+[✗] - 1133715169 - child workerEnv in error state 7
+[✗] - 1133715169 - child workerEnv in error state 8
+[✗] - 1133715169 - child workerEnv in error state 6
+[i] - 1133715354 - Found child 1331 in scoreboard slot 10
+[i] - 1133715385 - Found child 1338 in scoreboard slot 7
+[i] - 1133715385 - Found child 1334 in scoreboard slot 8
+[i] - 1133715385 - Found child 1336 in scoreboard slot 10
+[i] - 1133715385 - Found child 1337 in scoreboard slot 6
+[i] - 1133715385 - Found child 1335 in scoreboard slot 9
+[i] - 1133715387 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133715387 - child workerEnv in error state 6
+[i] - 1133715387 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133715387 - child workerEnv in error state 7
+[i] - 1133715387 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133715387 - child workerEnv in error state 6
+[i] - 1133715387 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133715387 - child workerEnv in error state 6
+[i] - 1133715387 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133715387 - child workerEnv in error state 6
+[i] - 1133715703 - Found child 1358 in scoreboard slot 8
+[i] - 1133715703 - Found child 1356 in scoreboard slot 6
+[i] - 1133715703 - Found child 1354 in scoreboard slot 9
+[i] - 1133715703 - Found child 1357 in scoreboard slot 7
+[i] - 1133715703 - Found child 1355 in scoreboard slot 10
+[i] - 1133715707 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133715707 - child workerEnv in error state 6
+[i] - 1133715707 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133715707 - child workerEnv in error state 6
+[i] - 1133715707 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133715707 - child workerEnv in error state 6
+[i] - 1133715707 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133715707 - child workerEnv in error state 6
+[i] - 1133715707 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133715707 - child workerEnv in error state 6
+[i] - 1133715945 - Found child 1375 in scoreboard slot 9
+[i] - 1133715945 - Found child 1376 in scoreboard slot 10
+[i] - 1133715945 - Found child 1377 in scoreboard slot 6
+[i] - 1133715948 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133715948 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133715948 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133715948 - child workerEnv in error state 6
+[✗] - 1133715948 - child workerEnv in error state 6
+[✗] - 1133715948 - child workerEnv in error state 6
+[i] - 1133716283 - Found child 1387 in scoreboard slot 7
+[i] - 1133716297 - Found child 1390 in scoreboard slot 10
+[i] - 1133716297 - Found child 1388 in scoreboard slot 8
+[i] - 1133716297 - Found child 1389 in scoreboard slot 9
+[i] - 1133716362 - Found child 1393 in scoreboard slot 8
+[i] - 1133716370 - Found child 1395 in scoreboard slot 10
+[i] - 1133716370 - Found child 1396 in scoreboard slot 6
+[i] - 1133716370 - Found child 1394 in scoreboard slot 9
+[i] - 1133716374 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133716374 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133716374 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133716374 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133716375 - child workerEnv in error state 6
+[✗] - 1133716375 - child workerEnv in error state 7
+[✗] - 1133716375 - child workerEnv in error state 7
+[✗] - 1133716375 - child workerEnv in error state 7
+[i] - 1133716376 - Found child 1397 in scoreboard slot 7
+[i] - 1133716377 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133716377 - child workerEnv in error state 7
+[i] - 1133716627 - Found child 1414 in scoreboard slot 7
+[i] - 1133716627 - Found child 1412 in scoreboard slot 10
+[i] - 1133716627 - Found child 1413 in scoreboard slot 6
+[i] - 1133716838 - Found child 1448 in scoreboard slot 6
+[i] - 1133716838 - Found child 1439 in scoreboard slot 7
+[i] - 1133716838 - Found child 1441 in scoreboard slot 9
+[i] - 1133716838 - Found child 1450 in scoreboard slot 11
+[i] - 1133716839 - Found child 1449 in scoreboard slot 10
+[i] - 1133716839 - Found child 1440 in scoreboard slot 8
+[i] - 1133716844 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133716844 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133716844 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133716844 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133716844 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133716846 - child workerEnv in error state 7
+[✗] - 1133716846 - child workerEnv in error state 6
+[✗] - 1133716846 - child workerEnv in error state 6
+[✗] - 1133716846 - child workerEnv in error state 7
+[✗] - 1133716846 - child workerEnv in error state 6
+[i] - 1133716861 - Found child 1452 in scoreboard slot 7
+[i] - 1133716864 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133716864 - child workerEnv in error state 8
+[i] - 1133717164 - Found child 1461 in scoreboard slot 8
+[i] - 1133717199 - Found child 1462 in scoreboard slot 6
+[i] - 1133717233 - Found child 1466 in scoreboard slot 8
+[i] - 1133717280 - Found child 1470 in scoreboard slot 7
+[i] - 1133717322 - Found child 1477 in scoreboard slot 6
+[i] - 1133717321 - Found child 1476 in scoreboard slot 8
+[i] - 1133717460 - Found child 1501 in scoreboard slot 7
+[i] - 1133717460 - Found child 1502 in scoreboard slot 6
+[i] - 1133717460 - Found child 1498 in scoreboard slot 8
+[i] - 1133717460 - Found child 1499 in scoreboard slot 11
+[i] - 1133717470 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133717470 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133717470 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133717471 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133717472 - child workerEnv in error state 6
+[✗] - 1133717472 - child workerEnv in error state 6
+[✗] - 1133717472 - child workerEnv in error state 8
+[✗] - 1133717472 - child workerEnv in error state 9
+[i] - 1133717503 - Found child 1503 in scoreboard slot 9
+[i] - 1133717503 - Found child 1504 in scoreboard slot 8
+[i] - 1133717505 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133717505 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133717505 - child workerEnv in error state 6
+[✗] - 1133717505 - child workerEnv in error state 6
+[i] - 1133717692 - Found child 1507 in scoreboard slot 10
+[i] - 1133717697 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133717697 - child workerEnv in error state 6
+[✗] - 1133717697 - 61.138.216.82] Directory index forbidden by rule: /var/www/html/
+[i] - 1133717774 - Found child 1512 in scoreboard slot 7
+[i] - 1133717774 - Found child 1513 in scoreboard slot 6
+[i] - 1133717828 - Found child 1517 in scoreboard slot 7
+[i] - 1133717828 - Found child 1518 in scoreboard slot 6
+[i] - 1133717867 - Found child 1520 in scoreboard slot 8
+[i] - 1133717867 - Found child 1521 in scoreboard slot 10
+[i] - 1133717940 - Found child 1529 in scoreboard slot 9
+[i] - 1133717941 - Found child 1530 in scoreboard slot 8
+[i] - 1133717940 - Found child 1528 in scoreboard slot 7
+[i] - 1133717940 - Found child 1527 in scoreboard slot 6
+[i] - 1133718188 - Found child 1565 in scoreboard slot 9
+[✗] - 1133718188 - Can't find child 1566 in scoreboard
+[i] - 1133718188 - Found child 1561 in scoreboard slot 6
+[i] - 1133718188 - Found child 1563 in scoreboard slot 8
+[i] - 1133718188 - Found child 1562 in scoreboard slot 7
+[✗] - 1133718188 - Can't find child 1567 in scoreboard
+[i] - 1133718188 - Found child 1568 in scoreboard slot 13
+[i] - 1133718192 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133718192 - child workerEnv in error state 9
+[i] - 1133718192 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133718192 - child workerEnv in error state 8
+[i] - 1133718192 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133718192 - child init 1 -2
+[i] - 1133718192 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133718192 - child workerEnv in error state 7
+[i] - 1133718192 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133718192 - child workerEnv in error state 9
+[i] - 1133718192 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133718192 - child init 1 -2
+[i] - 1133718192 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133718192 - child workerEnv in error state 6
+[✗] - 1133718823 - 218.39.132.175] Directory index forbidden by rule: /var/www/html/
+[✗] - 1133720662 - 125.30.38.52] Directory index forbidden by rule: /var/www/html/
+[i] - 1133724351 - Found child 1763 in scoreboard slot 6
+[i] - 1133724353 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133724353 - child workerEnv in error state 6
+[i] - 1133724740 - Found child 1786 in scoreboard slot 8
+[i] - 1133724740 - Found child 1787 in scoreboard slot 9
+[i] - 1133724752 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133724753 - child workerEnv in error state 6
+[i] - 1133724754 - Found child 1788 in scoreboard slot 6
+[i] - 1133724754 - Found child 1790 in scoreboard slot 8
+[i] - 1133724754 - Found child 1789 in scoreboard slot 7
+[i] - 1133724754 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133724754 - child workerEnv in error state 6
+[i] - 1133724754 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133724754 - child workerEnv in error state 7
+[i] - 1133724754 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133724754 - child workerEnv in error state 6
+[i] - 1133724958 - Found child 1797 in scoreboard slot 9
+[i] - 1133724958 - Found child 1798 in scoreboard slot 6
+[i] - 1133724958 - Found child 1799 in scoreboard slot 7
+[i] - 1133724958 - Found child 1800 in scoreboard slot 10
+[i] - 1133724958 - Found child 1801 in scoreboard slot 12
+[✗] - 1133724965 - 61.37.222.240] Directory index forbidden by rule: /var/www/html/
+[i] - 1133724967 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133724967 - child workerEnv in error state 6
+[i] - 1133724967 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133724967 - child workerEnv in error state 6
+[i] - 1133724967 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133724967 - child workerEnv in error state 6
+[i] - 1133724967 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133724967 - child workerEnv in error state 6
+[i] - 1133724967 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133724967 - child workerEnv in error state 6
+[i] - 1133725280 - Found child 1816 in scoreboard slot 9
+[i] - 1133725280 - Found child 1814 in scoreboard slot 7
+[i] - 1133725280 - Found child 1813 in scoreboard slot 6
+[i] - 1133725280 - Found child 1815 in scoreboard slot 8
+[i] - 1133725281 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133725281 - child workerEnv in error state 6
+[i] - 1133725281 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133725281 - child workerEnv in error state 6
+[i] - 1133725281 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133725281 - child workerEnv in error state 6
+[i] - 1133725281 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133725281 - child workerEnv in error state 6
+[i] - 1133725564 - Found child 1821 in scoreboard slot 6
+[i] - 1133725564 - Found child 1822 in scoreboard slot 7
+[i] - 1133725573 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133725573 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133725573 - child workerEnv in error state 6
+[✗] - 1133725573 - child workerEnv in error state 6
+[i] - 1133725576 - Found child 1823 in scoreboard slot 8
+[i] - 1133725579 - Found child 1824 in scoreboard slot 9
+[i] - 1133725580 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133725580 - child workerEnv in error state 6
+[i] - 1133725580 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133725580 - child workerEnv in error state 6
+[i] - 1133725839 - Found child 1833 in scoreboard slot 7
+[i] - 1133725839 - Found child 1832 in scoreboard slot 6
+[i] - 1133725851 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133725851 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133725855 - child workerEnv in error state 6
+[i] - 1133725857 - Found child 1834 in scoreboard slot 8
+[✗] - 1133725855 - child workerEnv in error state 6
+[i] - 1133725876 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133725878 - child workerEnv in error state 6
+[i] - 1133725903 - Found child 1835 in scoreboard slot 9
+[i] - 1133725912 - Found child 1836 in scoreboard slot 6
+[i] - 1133725912 - Found child 1837 in scoreboard slot 7
+[i] - 1133725914 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133725914 - child workerEnv in error state 6
+[i] - 1133725914 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133725914 - child workerEnv in error state 6
+[i] - 1133725914 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133725914 - child workerEnv in error state 6
+[i] - 1133726211 - Found child 1851 in scoreboard slot 6
+[i] - 1133726211 - Found child 1852 in scoreboard slot 9
+[i] - 1133726211 - Found child 1853 in scoreboard slot 7
+[i] - 1133726211 - Found child 1850 in scoreboard slot 8
+[i] - 1133726213 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133726213 - child workerEnv in error state 6
+[i] - 1133726213 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133726213 - child workerEnv in error state 6
+[i] - 1133726213 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133726213 - child workerEnv in error state 6
+[i] - 1133726213 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133726213 - child workerEnv in error state 6
+[i] - 1133726460 - Found child 1861 in scoreboard slot 8
+[i] - 1133726460 - Found child 1862 in scoreboard slot 6
+[i] - 1133726490 - Found child 1867 in scoreboard slot 8
+[i] - 1133726490 - Found child 1864 in scoreboard slot 7
+[i] - 1133726490 - Found child 1868 in scoreboard slot 6
+[i] - 1133726490 - Found child 1863 in scoreboard slot 9
+[i] - 1133726497 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133726497 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133726497 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133726497 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133726497 - child workerEnv in error state 6
+[✗] - 1133726497 - child workerEnv in error state 6
+[✗] - 1133726497 - child workerEnv in error state 6
+[✗] - 1133726497 - child workerEnv in error state 7
+[i] - 1133726755 - Found child 1887 in scoreboard slot 8
+[i] - 1133726755 - Found child 1885 in scoreboard slot 9
+[i] - 1133726755 - Found child 1888 in scoreboard slot 6
+[i] - 1133726755 - Found child 1886 in scoreboard slot 7
+[i] - 1133726758 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133726759 - child workerEnv in error state 6
+[i] - 1133726759 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133726759 - child workerEnv in error state 6
+[i] - 1133726759 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133726759 - child workerEnv in error state 6
+[i] - 1133726759 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133726759 - child workerEnv in error state 6
+[i] - 1133727069 - Found child 1899 in scoreboard slot 7
+[i] - 1133727069 - Found child 1900 in scoreboard slot 8
+[i] - 1133727069 - Found child 1901 in scoreboard slot 6
+[i] - 1133727069 - Found child 1898 in scoreboard slot 9
+[i] - 1133727074 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133727074 - child workerEnv in error state 6
+[i] - 1133727074 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133727074 - child workerEnv in error state 6
+[i] - 1133727074 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133727074 - child workerEnv in error state 6
+[i] - 1133727074 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133727074 - child workerEnv in error state 6
+[i] - 1133727370 - Found child 1912 in scoreboard slot 9
+[i] - 1133727370 - Found child 1915 in scoreboard slot 6
+[i] - 1133727370 - Found child 1913 in scoreboard slot 7
+[i] - 1133727370 - Found child 1914 in scoreboard slot 8
+[i] - 1133727375 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133727375 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133727375 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133727375 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133727375 - child workerEnv in error state 6
+[✗] - 1133727375 - child workerEnv in error state 6
+[✗] - 1133727375 - child workerEnv in error state 6
+[✗] - 1133727375 - child workerEnv in error state 6
+[i] - 1133727657 - Found child 1931 in scoreboard slot 7
+[i] - 1133727669 - Found child 1932 in scoreboard slot 8
+[i] - 1133727668 - Found child 1933 in scoreboard slot 6
+[i] - 1133727681 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133727691 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133727691 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133727697 - Found child 1934 in scoreboard slot 9
+[✗] - 1133727696 - child workerEnv in error state 6
+[i] - 1133727729 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133727732 - Found child 1936 in scoreboard slot 8
+[i] - 1133727732 - Found child 1935 in scoreboard slot 7
+[i] - 1133727769 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133727772 - child workerEnv in error state 7
+[i] - 1133727777 - Found child 1937 in scoreboard slot 6
+[i] - 1133727792 - Found child 1938 in scoreboard slot 9
+[i] - 1133727885 - Found child 1950 in scoreboard slot 9
+[i] - 1133727885 - Found child 1951 in scoreboard slot 7
+[i] - 1133727885 - Found child 1949 in scoreboard slot 6
+[i] - 1133727885 - Found child 1948 in scoreboard slot 8
+[i] - 1133727889 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133727889 - child workerEnv in error state 8
+[i] - 1133727889 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133727889 - child workerEnv in error state 8
+[i] - 1133727889 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133727889 - child workerEnv in error state 6
+[i] - 1133727889 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133727889 - child workerEnv in error state 7
+[i] - 1133727970 - Found child 1957 in scoreboard slot 8
+[i] - 1133728013 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133728014 - child workerEnv in error state 6
+[i] - 1133728018 - Found child 1959 in scoreboard slot 9
+[i] - 1133728018 - Found child 1958 in scoreboard slot 6
+[i] - 1133728063 - Found child 1961 in scoreboard slot 8
+[i] - 1133728080 - Found child 1962 in scoreboard slot 6
+[i] - 1133728080 - Found child 1963 in scoreboard slot 9
+[i] - 1133728106 - Found child 1964 in scoreboard slot 7
+[i] - 1133728119 - Found child 1966 in scoreboard slot 6
+[i] - 1133728119 - Found child 1967 in scoreboard slot 9
+[i] - 1133728119 - Found child 1965 in scoreboard slot 8
+[i] - 1133728174 - Found child 1970 in scoreboard slot 6
+[i] - 1133728259 - Found child 1984 in scoreboard slot 10
+[i] - 1133728295 - Found child 1990 in scoreboard slot 9
+[i] - 1133728357 - Found child 1999 in scoreboard slot 6
+[i] - 1133728357 - Found child 2000 in scoreboard slot 7
+[i] - 1133728357 - Found child 1998 in scoreboard slot 9
+[i] - 1133728370 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133728370 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133728370 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133728375 - child workerEnv in error state 10
+[✗] - 1133728375 - child workerEnv in error state 6
+[✗] - 1133728375 - child workerEnv in error state 10
+[i] - 1133728415 - Found child 2002 in scoreboard slot 8
+[i] - 1133728415 - Found child 2001 in scoreboard slot 9
+[i] - 1133728427 - Found child 2005 in scoreboard slot 7
+[i] - 1133728427 - Found child 2004 in scoreboard slot 6
+[i] - 1133728453 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133728454 - child workerEnv in error state 6
+[i] - 1133728460 - Found child 2007 in scoreboard slot 8
+[i] - 1133728460 - Found child 2006 in scoreboard slot 9
+[i] - 1133728461 - Found child 2008 in scoreboard slot 6
+[i] - 1133728465 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133728465 - child workerEnv in error state 7
+[i] - 1133728465 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133728465 - child workerEnv in error state 9
+[i] - 1133728465 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133728465 - child workerEnv in error state 7
+[i] - 1133728649 - Found child 2028 in scoreboard slot 9
+[i] - 1133728649 - Found child 2027 in scoreboard slot 7
+[i] - 1133728649 - Found child 2029 in scoreboard slot 8
+[i] - 1133728666 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133728666 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133728669 - child workerEnv in error state 6
+[✗] - 1133728669 - child workerEnv in error state 6
+[i] - 1133728690 - Found child 2030 in scoreboard slot 6
+[i] - 1133728690 - Found child 2031 in scoreboard slot 7
+[i] - 1133728691 - Found child 2032 in scoreboard slot 9
+[i] - 1133728694 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133728694 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133728694 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133728694 - child workerEnv in error state 6
+[✗] - 1133728694 - child workerEnv in error state 6
+[✗] - 1133728694 - child workerEnv in error state 7
+[i] - 1133728872 - Found child 2042 in scoreboard slot 8
+[i] - 1133728907 - Found child 2045 in scoreboard slot 9
+[i] - 1133728962 - Found child 2051 in scoreboard slot 8
+[i] - 1133729069 - Found child 2059 in scoreboard slot 7
+[i] - 1133729069 - Found child 2060 in scoreboard slot 9
+[i] - 1133729070 - Found child 2061 in scoreboard slot 8
+[i] - 1133729236 - Found child 2081 in scoreboard slot 6
+[✗] - 1133729236 - Can't find child 2082 in scoreboard
+[i] - 1133729236 - Found child 2083 in scoreboard slot 8
+[i] - 1133729236 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133729236 - child workerEnv in error state 6
+[i] - 1133729236 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133729236 - child init 1 -2
+[i] - 1133729236 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133729236 - child workerEnv in error state 9
+[✗] - 1133729237 - Can't find child 2085 in scoreboard
+[i] - 1133729237 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133729237 - child init 1 -2
+[✗] - 1133729237 - Can't find child 2086 in scoreboard
+[i] - 1133729237 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133729237 - child init 1 -2
+[✗] - 1133729237 - Can't find child 2087 in scoreboard
+[i] - 1133729237 - Found child 2084 in scoreboard slot 9
+[i] - 1133729237 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133729237 - child workerEnv in error state 7
+[i] - 1133729237 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133729237 - child init 1 -2
+[✗] - 1133744671 - 218.62.18.218] Directory index forbidden by rule: /var/www/html/
+[✗] - 1133746232 - 211.62.201.48] Directory index forbidden by rule: /var/www/html/
+[i] - 1133752860 - Found child 2760 in scoreboard slot 6
+[i] - 1133752862 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133752862 - child workerEnv in error state 6
+[i] - 1133753001 - Found child 2763 in scoreboard slot 7
+[i] - 1133753004 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133753004 - child workerEnv in error state 6
+[✗] - 1133753004 - 218.207.61.7] Directory index forbidden by rule: /var/www/html/
+[i] - 1133753144 - Found child 2773 in scoreboard slot 6
+[i] - 1133753146 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133753146 - child workerEnv in error state 6
+[i] - 1133753811 - Found child 2813 in scoreboard slot 7
+[i] - 1133753811 - Found child 2815 in scoreboard slot 8
+[i] - 1133753811 - Found child 2812 in scoreboard slot 6
+[i] - 1133753811 - Found child 2811 in scoreboard slot 9
+[i] - 1133753817 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133753817 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133753817 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133753817 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133753817 - child workerEnv in error state 6
+[✗] - 1133753817 - child workerEnv in error state 6
+[✗] - 1133753817 - child workerEnv in error state 6
+[✗] - 1133753817 - child workerEnv in error state 6
+[i] - 1133754046 - Found child 2823 in scoreboard slot 9
+[i] - 1133754055 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133754055 - child workerEnv in error state 6
+[i] - 1133754290 - Found child 2824 in scoreboard slot 10
+[✗] - 1133754290 - 168.20.198.21] Directory index forbidden by rule: /var/www/html/
+[i] - 1133754290 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133754290 - child workerEnv in error state 6
+[i] - 1133754398 - Found child 2838 in scoreboard slot 10
+[i] - 1133754398 - Found child 2836 in scoreboard slot 9
+[i] - 1133754398 - Found child 2837 in scoreboard slot 6
+[i] - 1133754410 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133754422 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133754439 - Found child 2840 in scoreboard slot 8
+[i] - 1133754439 - Found child 2841 in scoreboard slot 6
+[i] - 1133754439 - Found child 2842 in scoreboard slot 9
+[i] - 1133754473 - Found child 2846 in scoreboard slot 9
+[i] - 1133754473 - Found child 2843 in scoreboard slot 7
+[i] - 1133754473 - Found child 2844 in scoreboard slot 8
+[i] - 1133754473 - Found child 2845 in scoreboard slot 6
+[i] - 1133754474 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133754474 - child workerEnv in error state 8
+[i] - 1133754474 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133754474 - child workerEnv in error state 8
+[i] - 1133754474 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133754474 - child workerEnv in error state 7
+[i] - 1133754474 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133754474 - child workerEnv in error state 6
+[i] - 1133754649 - Found child 2857 in scoreboard slot 9
+[i] - 1133754650 - Found child 2854 in scoreboard slot 7
+[i] - 1133754649 - Found child 2855 in scoreboard slot 8
+[i] - 1133754649 - Found child 2856 in scoreboard slot 6
+[i] - 1133754659 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133754659 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133754659 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133754659 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133754659 - child workerEnv in error state 6
+[✗] - 1133754659 - child workerEnv in error state 6
+[✗] - 1133754659 - child workerEnv in error state 6
+[✗] - 1133754659 - child workerEnv in error state 6
+[i] - 1133754972 - Found child 2866 in scoreboard slot 7
+[i] - 1133754972 - Found child 2867 in scoreboard slot 8
+[i] - 1133754972 - Found child 2865 in scoreboard slot 9
+[i] - 1133754972 - Found child 2864 in scoreboard slot 6
+[i] - 1133754975 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133754975 - child workerEnv in error state 6
+[i] - 1133754975 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133754975 - child workerEnv in error state 6
+[i] - 1133754975 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133754975 - child workerEnv in error state 6
+[i] - 1133754975 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133754975 - child workerEnv in error state 6
+[i] - 1133755255 - Found child 2877 in scoreboard slot 10
+[i] - 1133755278 - Found child 2883 in scoreboard slot 9
+[i] - 1133755278 - Found child 2878 in scoreboard slot 7
+[i] - 1133755278 - Found child 2880 in scoreboard slot 8
+[i] - 1133755278 - Found child 2879 in scoreboard slot 6
+[i] - 1133755283 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133755283 - child workerEnv in error state 6
+[i] - 1133755283 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133755283 - child workerEnv in error state 6
+[i] - 1133755283 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133755283 - child workerEnv in error state 6
+[i] - 1133755283 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133755283 - child workerEnv in error state 6
+[i] - 1133755579 - Found child 3667 in scoreboard slot 7
+[i] - 1133755579 - Found child 3669 in scoreboard slot 6
+[i] - 1133755587 - Found child 3670 in scoreboard slot 8
+[i] - 1133755603 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133755603 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133755605 - child workerEnv in error state 6
+[✗] - 1133755605 - child workerEnv in error state 6
+[i] - 1133755643 - Found child 3672 in scoreboard slot 7
+[i] - 1133755657 - Found child 3673 in scoreboard slot 6
+[i] - 1133755668 - Found child 3675 in scoreboard slot 9
+[i] - 1133755668 - Found child 3674 in scoreboard slot 8
+[i] - 1133755717 - Found child 3678 in scoreboard slot 8
+[i] - 1133755717 - Found child 3681 in scoreboard slot 6
+[i] - 1133755717 - Found child 3679 in scoreboard slot 9
+[i] - 1133755717 - Found child 3680 in scoreboard slot 7
+[i] - 1133755737 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133755772 - Found child 3685 in scoreboard slot 6
+[i] - 1133755847 - Found child 3698 in scoreboard slot 9
+[i] - 1133755847 - Found child 3690 in scoreboard slot 6
+[i] - 1133755847 - Found child 3691 in scoreboard slot 8
+[i] - 1133756034 - Found child 3744 in scoreboard slot 6
+[i] - 1133756034 - Found child 3747 in scoreboard slot 8
+[i] - 1133756034 - Found child 3754 in scoreboard slot 12
+[i] - 1133756034 - Found child 3755 in scoreboard slot 13
+[i] - 1133756034 - Found child 3753 in scoreboard slot 10
+[i] - 1133756034 - Found child 3752 in scoreboard slot 9
+[i] - 1133756034 - Found child 3746 in scoreboard slot 7
+[i] - 1133756040 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133756040 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133756040 - child workerEnv in error state 9
+[i] - 1133756040 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133756040 - child workerEnv in error state 8
+[i] - 1133756040 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133756040 - child workerEnv in error state 6
+[i] - 1133756040 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133756040 - child workerEnv in error state 9
+[i] - 1133756040 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133756040 - child workerEnv in error state 6
+[i] - 1133756040 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133756040 - child workerEnv in error state 10
+[✗] - 1133756040 - child workerEnv in error state 9
+[i] - 1133759202 - Found child 4596 in scoreboard slot 8
+[i] - 1133759202 - Found child 4595 in scoreboard slot 7
+[i] - 1133759202 - Found child 4594 in scoreboard slot 6
+[i] - 1133759207 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133759207 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133759207 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133759207 - child workerEnv in error state 6
+[✗] - 1133759207 - child workerEnv in error state 6
+[✗] - 1133759207 - child workerEnv in error state 6
+[i] - 1133759464 - Found child 4609 in scoreboard slot 7
+[i] - 1133759464 - Found child 4608 in scoreboard slot 6
+[i] - 1133759494 - Found child 4611 in scoreboard slot 9
+[i] - 1133759514 - Found child 4613 in scoreboard slot 7
+[i] - 1133759514 - Found child 4612 in scoreboard slot 6
+[i] - 1133759552 - Found child 4615 in scoreboard slot 9
+[i] - 1133759576 - Found child 4616 in scoreboard slot 6
+[i] - 1133759576 - Found child 4617 in scoreboard slot 7
+[i] - 1133759576 - Found child 4618 in scoreboard slot 8
+[i] - 1133759729 - Found child 4634 in scoreboard slot 6
+[i] - 1133759729 - Found child 4637 in scoreboard slot 7
+[i] - 1133759729 - Found child 4631 in scoreboard slot 9
+[i] - 1133759729 - Found child 4630 in scoreboard slot 8
+[i] - 1133759733 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133759733 - child workerEnv in error state 9
+[i] - 1133759733 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133759733 - child workerEnv in error state 9
+[i] - 1133759733 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133759733 - child workerEnv in error state 7
+[i] - 1133759733 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133759733 - child workerEnv in error state 8
+[i] - 1133764527 - Found child 4820 in scoreboard slot 8
+[i] - 1133764527 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133764527 - child workerEnv in error state 6
+[i] - 1133764618 - Found child 4821 in scoreboard slot 10
+[i] - 1133764618 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133764618 - child workerEnv in error state 6
+[✗] - 1133764619 - 221.232.178.24] Directory index forbidden by rule: /var/www/html/
+[i] - 1133766960 - Found child 4893 in scoreboard slot 7
+[i] - 1133766960 - Found child 4892 in scoreboard slot 6
+[i] - 1133766963 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133766963 - child workerEnv in error state 6
+[i] - 1133766963 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133766963 - child workerEnv in error state 6
+[i] - 1133767263 - Found child 4907 in scoreboard slot 6
+[i] - 1133767262 - Found child 4906 in scoreboard slot 9
+[i] - 1133767262 - Found child 4905 in scoreboard slot 8
+[i] - 1133767269 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133767269 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133767269 - child workerEnv in error state 6
+[✗] - 1133767269 - child workerEnv in error state 6
+[i] - 1133767269 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133767269 - child workerEnv in error state 6
+[i] - 1133767555 - Found child 4916 in scoreboard slot 8
+[i] - 1133767555 - Found child 4917 in scoreboard slot 9
+[i] - 1133767555 - Found child 4915 in scoreboard slot 7
+[i] - 1133767559 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133767559 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133767559 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133767560 - child workerEnv in error state 6
+[✗] - 1133767560 - child workerEnv in error state 6
+[✗] - 1133767560 - child workerEnv in error state 6
+[i] - 1133767882 - Found child 4932 in scoreboard slot 6
+[i] - 1133767923 - Found child 4938 in scoreboard slot 8
+[i] - 1133767923 - Found child 4935 in scoreboard slot 9
+[i] - 1133767923 - Found child 4936 in scoreboard slot 6
+[i] - 1133767923 - Found child 4937 in scoreboard slot 7
+[i] - 1133767926 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133767926 - child workerEnv in error state 6
+[i] - 1133767926 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133767926 - child workerEnv in error state 6
+[i] - 1133767926 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133767926 - child workerEnv in error state 6
+[i] - 1133767926 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133767926 - child workerEnv in error state 6
+[i] - 1133768179 - Found child 4950 in scoreboard slot 7
+[i] - 1133768267 - Found child 4961 in scoreboard slot 6
+[i] - 1133768268 - Found child 4962 in scoreboard slot 7
+[i] - 1133768268 - Found child 4960 in scoreboard slot 9
+[i] - 1133768268 - Found child 4959 in scoreboard slot 8
+[i] - 1133768278 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133768278 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133768278 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133768278 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133768278 - child workerEnv in error state 6
+[✗] - 1133768278 - child workerEnv in error state 6
+[✗] - 1133768278 - child workerEnv in error state 6
+[✗] - 1133768278 - child workerEnv in error state 6
+[i] - 1133768467 - Found child 4974 in scoreboard slot 9
+[i] - 1133768495 - Found child 4975 in scoreboard slot 6
+[i] - 1133768510 - Found child 4977 in scoreboard slot 8
+[i] - 1133768510 - Found child 4976 in scoreboard slot 7
+[i] - 1133768587 - Found child 4984 in scoreboard slot 7
+[i] - 1133768588 - Found child 4985 in scoreboard slot 10
+[i] - 1133768587 - Found child 4983 in scoreboard slot 6
+[i] - 1133768595 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133768596 - child workerEnv in error state 7
+[i] - 1133768595 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133768596 - child workerEnv in error state 7
+[i] - 1133768595 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133768596 - child workerEnv in error state 6
+[i] - 1133768599 - Found child 4986 in scoreboard slot 8
+[i] - 1133768599 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133768599 - child workerEnv in error state 7
+[i] - 1133768761 - Found child 4991 in scoreboard slot 6
+[i] - 1133768761 - Found child 4992 in scoreboard slot 7
+[i] - 1133768806 - Found child 4996 in scoreboard slot 7
+[i] - 1133768806 - Found child 4995 in scoreboard slot 6
+[i] - 1133768833 - Found child 4998 in scoreboard slot 8
+[i] - 1133768833 - Found child 4999 in scoreboard slot 6
+[i] - 1133768841 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133768841 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133768841 - Found child 5000 in scoreboard slot 7
+[✗] - 1133768842 - child workerEnv in error state 8
+[i] - 1133768841 - Found child 5001 in scoreboard slot 9
+[✗] - 1133768843 - child workerEnv in error state 6
+[i] - 1133768856 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133768856 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133768860 - child workerEnv in error state 7
+[✗] - 1133768860 - child workerEnv in error state 8
+[i] - 1133768884 - Found child 5002 in scoreboard slot 8
+[i] - 1133768884 - Found child 5003 in scoreboard slot 6
+[i] - 1133768926 - Found child 5005 in scoreboard slot 9
+[i] - 1133768926 - Found child 5006 in scoreboard slot 8
+[i] - 1133768935 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133768935 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133768935 - child workerEnv in error state 6
+[✗] - 1133768935 - child workerEnv in error state 7
+[i] - 1133768936 - Found child 5007 in scoreboard slot 6
+[i] - 1133768936 - Found child 5008 in scoreboard slot 7
+[i] - 1133768936 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133768936 - child workerEnv in error state 6
+[i] - 1133768936 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133768936 - child workerEnv in error state 7
+[i] - 1133769054 - Found child 5017 in scoreboard slot 8
+[i] - 1133769054 - Found child 5016 in scoreboard slot 9
+[i] - 1133769082 - Found child 5018 in scoreboard slot 6
+[i] - 1133769080 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133769083 - child workerEnv in error state 6
+[i] - 1133769099 - Found child 5020 in scoreboard slot 9
+[i] - 1133769099 - Found child 5019 in scoreboard slot 7
+[i] - 1133769116 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133769116 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133769122 - child workerEnv in error state 6
+[✗] - 1133769122 - child workerEnv in error state 7
+[i] - 1133769149 - Found child 5021 in scoreboard slot 8
+[i] - 1133769149 - Found child 5022 in scoreboard slot 6
+[i] - 1133769176 - Found child 5024 in scoreboard slot 9
+[i] - 1133769176 - Found child 5023 in scoreboard slot 7
+[i] - 1133769175 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133769181 - child workerEnv in error state 7
+[i] - 1133769204 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133769241 - Found child 5029 in scoreboard slot 8
+[i] - 1133769242 - Found child 5030 in scoreboard slot 6
+[i] - 1133769288 - Found child 5033 in scoreboard slot 8
+[i] - 1133769288 - Found child 5032 in scoreboard slot 9
+[i] - 1133769300 - Found child 5035 in scoreboard slot 7
+[i] - 1133769300 - Found child 5034 in scoreboard slot 6
+[i] - 1133769307 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133769308 - child workerEnv in error state 8
+[i] - 1133769307 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133769308 - child workerEnv in error state 7
+[i] - 1133769307 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133769308 - child workerEnv in error state 7
+[i] - 1133769313 - Found child 5036 in scoreboard slot 9
+[i] - 1133769421 - Found child 5050 in scoreboard slot 8
+[i] - 1133769421 - Found child 5049 in scoreboard slot 7
+[i] - 1133769421 - Found child 5048 in scoreboard slot 6
+[i] - 1133769422 - Found child 5051 in scoreboard slot 9
+[✗] - 1133769422 - Can't find child 5053 in scoreboard
+[✗] - 1133769422 - Can't find child 5054 in scoreboard
+[i] - 1133769422 - Found child 5052 in scoreboard slot 10
+[i] - 1133769422 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133769422 - child workerEnv in error state 6
+[i] - 1133769422 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133769422 - child workerEnv in error state 6
+[i] - 1133769422 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133769422 - child workerEnv in error state 6
+[i] - 1133769422 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133769422 - child workerEnv in error state 8
+[i] - 1133769422 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133769422 - child workerEnv in error state 6
+[i] - 1133769422 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133769422 - child init 1 -2
+[i] - 1133769422 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133769422 - child init 1 -2
+[✗] - 1133773788 - 207.12.15.211] Directory index forbidden by rule: /var/www/html/
+[i] - 1133775373 - Found child 5271 in scoreboard slot 7
+[i] - 1133775373 - Found child 5270 in scoreboard slot 6
+[i] - 1133775374 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133775374 - child workerEnv in error state 6
+[i] - 1133775374 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133775374 - child workerEnv in error state 6
+[i] - 1133776521 - Found child 5295 in scoreboard slot 8
+[i] - 1133776521 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133776521 - child workerEnv in error state 6
+[i] - 1133777432 - Found child 5330 in scoreboard slot 9
+[i] - 1133777433 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133777433 - child workerEnv in error state 6
+[i] - 1133777780 - Found child 5344 in scoreboard slot 7
+[i] - 1133777812 - Found child 5347 in scoreboard slot 6
+[i] - 1133777813 - Found child 5348 in scoreboard slot 7
+[i] - 1133777865 - Found child 5350 in scoreboard slot 9
+[i] - 1133777865 - Found child 5349 in scoreboard slot 8
+[i] - 1133777869 - Found child 5352 in scoreboard slot 7
+[i] - 1133777870 - Found child 5351 in scoreboard slot 6
+[i] - 1133777871 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133777871 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133777871 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133777871 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133777871 - child workerEnv in error state 6
+[✗] - 1133777871 - child workerEnv in error state 6
+[✗] - 1133777871 - child workerEnv in error state 7
+[✗] - 1133777871 - child workerEnv in error state 7
+[i] - 1133778065 - Found child 5366 in scoreboard slot 9
+[i] - 1133778065 - Found child 5365 in scoreboard slot 8
+[i] - 1133778065 - Found child 5367 in scoreboard slot 6
+[i] - 1133778067 - Found child 5368 in scoreboard slot 7
+[i] - 1133778073 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133778073 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133778073 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133778073 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133778073 - child workerEnv in error state 6
+[✗] - 1133778073 - child workerEnv in error state 6
+[✗] - 1133778073 - child workerEnv in error state 6
+[✗] - 1133778073 - child workerEnv in error state 6
+[i] - 1133778386 - Found child 5384 in scoreboard slot 7
+[i] - 1133778386 - Found child 5385 in scoreboard slot 8
+[i] - 1133778385 - Found child 5386 in scoreboard slot 9
+[i] - 1133778385 - Found child 5387 in scoreboard slot 6
+[i] - 1133778391 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133778391 - child workerEnv in error state 6
+[i] - 1133778391 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133778391 - child workerEnv in error state 6
+[i] - 1133778391 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133778391 - child workerEnv in error state 6
+[i] - 1133778391 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133778391 - child workerEnv in error state 6
+[i] - 1133778396 - Found child 5388 in scoreboard slot 10
+[i] - 1133778396 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133778396 - child workerEnv in error state 6
+[✗] - 1133778399 - 141.153.150.164] Directory index forbidden by rule: /var/www/html/
+[✗] - 1133778524 - 198.232.168.9] Directory index forbidden by rule: /var/www/html/
+[i] - 1133778700 - Found child 5404 in scoreboard slot 8
+[i] - 1133778700 - Found child 5405 in scoreboard slot 9
+[i] - 1133778821 - Found child 5418 in scoreboard slot 6
+[i] - 1133778821 - Found child 5419 in scoreboard slot 7
+[i] - 1133778821 - Found child 5417 in scoreboard slot 9
+[i] - 1133778821 - Found child 5416 in scoreboard slot 8
+[i] - 1133778824 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133778824 - child workerEnv in error state 6
+[i] - 1133778824 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133778824 - child workerEnv in error state 6
+[i] - 1133778824 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133778824 - child workerEnv in error state 7
+[i] - 1133778824 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133778824 - child workerEnv in error state 7
+[i] - 1133778970 - Found child 5426 in scoreboard slot 6
+[i] - 1133778970 - Found child 5425 in scoreboard slot 9
+[i] - 1133779018 - Found child 5428 in scoreboard slot 8
+[i] - 1133779047 - Found child 5429 in scoreboard slot 9
+[i] - 1133779047 - Found child 5430 in scoreboard slot 6
+[i] - 1133779080 - Found child 5434 in scoreboard slot 6
+[i] - 1133779080 - Found child 5433 in scoreboard slot 9
+[i] - 1133779080 - Found child 5435 in scoreboard slot 7
+[i] - 1133779080 - Found child 5432 in scoreboard slot 8
+[i] - 1133779084 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133779084 - child workerEnv in error state 8
+[i] - 1133779084 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133779084 - child workerEnv in error state 7
+[i] - 1133779084 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133779084 - child workerEnv in error state 6
+[i] - 1133779084 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133779084 - child workerEnv in error state 7
+[i] - 1133779274 - Found child 5470 in scoreboard slot 9
+[i] - 1133779274 - Found child 5469 in scoreboard slot 8
+[i] - 1133779343 - Found child 5474 in scoreboard slot 9
+[i] - 1133779343 - Found child 5475 in scoreboard slot 6
+[i] - 1133779399 - Found child 5482 in scoreboard slot 9
+[i] - 1133779399 - Found child 5480 in scoreboard slot 7
+[i] - 1133779399 - Found child 5479 in scoreboard slot 6
+[i] - 1133779399 - Found child 5481 in scoreboard slot 8
+[i] - 1133779414 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133779414 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133779419 - child workerEnv in error state 8
+[i] - 1133779421 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133779421 - child workerEnv in error state 7
+[i] - 1133779428 - Found child 5484 in scoreboard slot 7
+[i] - 1133779428 - Found child 5483 in scoreboard slot 6
+[i] - 1133779431 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133779431 - child workerEnv in error state 7
+[i] - 1133779431 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133779431 - child workerEnv in error state 8
+[i] - 1133779615 - Found child 5497 in scoreboard slot 7
+[i] - 1133779615 - Found child 5495 in scoreboard slot 9
+[i] - 1133779615 - Found child 5494 in scoreboard slot 8
+[i] - 1133779615 - Found child 5496 in scoreboard slot 6
+[i] - 1133779632 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133779632 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133779637 - child workerEnv in error state 6
+[✗] - 1133779637 - child workerEnv in error state 6
+[i] - 1133779652 - Found child 5499 in scoreboard slot 9
+[i] - 1133779653 - Found child 5498 in scoreboard slot 8
+[i] - 1133779664 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133779664 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133779665 - child workerEnv in error state 7
+[✗] - 1133779665 - child workerEnv in error state 7
+[i] - 1133779667 - Found child 5500 in scoreboard slot 6
+[i] - 1133779667 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133779667 - child workerEnv in error state 6
+[i] - 1133779723 - Found child 5503 in scoreboard slot 10
+[i] - 1133779726 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133779726 - child workerEnv in error state 6
+[✗] - 1133779728 - 67.166.248.235] Directory index forbidden by rule: /var/www/html/
+[i] - 1133779872 - Found child 5515 in scoreboard slot 7
+[i] - 1133779872 - Found child 5516 in scoreboard slot 8
+[i] - 1133779893 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133779893 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133779895 - child workerEnv in error state 6
+[✗] - 1133779895 - child workerEnv in error state 6
+[i] - 1133779919 - Found child 5517 in scoreboard slot 6
+[i] - 1133779920 - Found child 5518 in scoreboard slot 9
+[i] - 1133779935 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133779935 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133779941 - child workerEnv in error state 6
+[i] - 1133780022 - Found child 5527 in scoreboard slot 7
+[i] - 1133780022 - Found child 5526 in scoreboard slot 9
+[i] - 1133780147 - Found child 5538 in scoreboard slot 9
+[i] - 1133780365 - Found child 5565 in scoreboard slot 9
+[i] - 1133780365 - Found child 5563 in scoreboard slot 7
+[i] - 1133780365 - Found child 5562 in scoreboard slot 6
+[i] - 1133780365 - Found child 5564 in scoreboard slot 8
+[i] - 1133780365 - Found child 5567 in scoreboard slot 12
+[i] - 1133780365 - Found child 5568 in scoreboard slot 13
+[i] - 1133780365 - Found child 5566 in scoreboard slot 10
+[i] - 1133780369 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133780369 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133780369 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133780369 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133780369 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133780369 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133780369 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133780369 - child workerEnv in error state 6
+[✗] - 1133780369 - child workerEnv in error state 7
+[✗] - 1133780369 - child workerEnv in error state 8
+[✗] - 1133780369 - child workerEnv in error state 6
+[✗] - 1133780369 - child workerEnv in error state 6
+[✗] - 1133780369 - child workerEnv in error state 6
+[✗] - 1133780369 - child workerEnv in error state 7
+[i] - 1133780525 - Found child 5579 in scoreboard slot 6
+[i] - 1133780656 - Found child 5592 in scoreboard slot 8
+[i] - 1133780656 - Found child 5593 in scoreboard slot 9
+[i] - 1133780810 - Found child 5616 in scoreboard slot 6
+[i] - 1133780811 - Found child 5617 in scoreboard slot 7
+[i] - 1133780811 - Found child 5618 in scoreboard slot 8
+[i] - 1133780811 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133780811 - child workerEnv in error state 6
+[i] - 1133780811 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133780811 - child workerEnv in error state 7
+[i] - 1133780811 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133780811 - child workerEnv in error state 6
+[✗] - 1133780812 - Can't find child 5619 in scoreboard
+[i] - 1133780812 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133780812 - child init 1 -2
+[✗] - 1133780812 - Can't find child 5620 in scoreboard
+[i] - 1133780812 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133780812 - child init 1 -2
+[✗] - 1133780812 - Can't find child 5621 in scoreboard
+[i] - 1133780812 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133780812 - child init 1 -2
+[✗] - 1133780812 - Can't find child 5622 in scoreboard
+[i] - 1133780812 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133780812 - child init 1 -2
+[i] - 1133786157 - Found child 5785 in scoreboard slot 6
+[i] - 1133786157 - Found child 5786 in scoreboard slot 7
+[i] - 1133786196 - Found child 5790 in scoreboard slot 7
+[i] - 1133786196 - Found child 5788 in scoreboard slot 9
+[i] - 1133786196 - Found child 5789 in scoreboard slot 6
+[i] - 1133786196 - Found child 5787 in scoreboard slot 8
+[i] - 1133786199 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133786199 - child workerEnv in error state 7
+[i] - 1133786199 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133786199 - child workerEnv in error state 6
+[i] - 1133786199 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133786199 - child workerEnv in error state 7
+[i] - 1133786199 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133786199 - child workerEnv in error state 6
+[i] - 1133786437 - Found child 5798 in scoreboard slot 8
+[i] - 1133786438 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133786438 - child workerEnv in error state 6
+[i] - 1133787042 - Found child 5811 in scoreboard slot 6
+[i] - 1133787042 - Found child 5810 in scoreboard slot 9
+[i] - 1133787043 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133787043 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133787043 - child workerEnv in error state 6
+[✗] - 1133787043 - child workerEnv in error state 6
+[i] - 1133787348 - Found child 5817 in scoreboard slot 8
+[i] - 1133787348 - Found child 5816 in scoreboard slot 7
+[i] - 1133787349 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133787349 - child workerEnv in error state 6
+[i] - 1133787349 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133787349 - child workerEnv in error state 6
+[i] - 1133787633 - Found child 5825 in scoreboard slot 9
+[i] - 1133787633 - Found child 5826 in scoreboard slot 6
+[i] - 1133787634 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133787634 - child workerEnv in error state 6
+[i] - 1133787634 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133787634 - child workerEnv in error state 6
+[i] - 1133787924 - Found child 5845 in scoreboard slot 7
+[i] - 1133787924 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133787924 - child workerEnv in error state 6
+[i] - 1133788255 - Found child 5856 in scoreboard slot 8
+[i] - 1133788259 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133788259 - child workerEnv in error state 6
+[i] - 1133788587 - Found child 5877 in scoreboard slot 9
+[i] - 1133788587 - Found child 5876 in scoreboard slot 8
+[i] - 1133788587 - Found child 5878 in scoreboard slot 6
+[i] - 1133788587 - Found child 5875 in scoreboard slot 7
+[i] - 1133788589 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133788589 - child workerEnv in error state 6
+[i] - 1133788589 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133788589 - child workerEnv in error state 6
+[i] - 1133788589 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133788589 - child workerEnv in error state 6
+[i] - 1133788589 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133788589 - child workerEnv in error state 6
+[i] - 1133788895 - Found child 5893 in scoreboard slot 9
+[i] - 1133788894 - Found child 5892 in scoreboard slot 8
+[i] - 1133788965 - Found child 5901 in scoreboard slot 9
+[i] - 1133788965 - Found child 5899 in scoreboard slot 7
+[i] - 1133788965 - Found child 5900 in scoreboard slot 8
+[i] - 1133788965 - Found child 5898 in scoreboard slot 6
+[i] - 1133788968 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133788968 - child workerEnv in error state 7
+[i] - 1133788968 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133788968 - child workerEnv in error state 7
+[i] - 1133788968 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133788968 - child workerEnv in error state 6
+[i] - 1133788968 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133788968 - child workerEnv in error state 6
+[i] - 1133789163 - Found child 5912 in scoreboard slot 7
+[i] - 1133789197 - Found child 5914 in scoreboard slot 9
+[i] - 1133789197 - Found child 5915 in scoreboard slot 6
+[i] - 1133789235 - Found child 5917 in scoreboard slot 8
+[i] - 1133789234 - Found child 5916 in scoreboard slot 7
+[i] - 1133789235 - Found child 5919 in scoreboard slot 6
+[i] - 1133789235 - Found child 5918 in scoreboard slot 9
+[i] - 1133789294 - Found child 5925 in scoreboard slot 8
+[i] - 1133789294 - Found child 5923 in scoreboard slot 6
+[i] - 1133789294 - Found child 5924 in scoreboard slot 7
+[i] - 1133789294 - Found child 5922 in scoreboard slot 9
+[i] - 1133789297 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133789297 - child workerEnv in error state 7
+[i] - 1133789297 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133789297 - child workerEnv in error state 8
+[i] - 1133789297 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133789297 - child workerEnv in error state 8
+[i] - 1133789297 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133789297 - child workerEnv in error state 8
+[i] - 1133789479 - Found child 5935 in scoreboard slot 9
+[i] - 1133789479 - Found child 5936 in scoreboard slot 6
+[i] - 1133789513 - Found child 5938 in scoreboard slot 8
+[i] - 1133789513 - Found child 5937 in scoreboard slot 7
+[i] - 1133789521 - Found child 5940 in scoreboard slot 6
+[i] - 1133789521 - Found child 5939 in scoreboard slot 9
+[i] - 1133789524 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133789524 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133789524 - child workerEnv in error state 6
+[✗] - 1133789524 - child workerEnv in error state 6
+[i] - 1133789529 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133789529 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133789530 - child workerEnv in error state 7
+[✗] - 1133789530 - child workerEnv in error state 7
+[i] - 1133789548 - Found child 5942 in scoreboard slot 8
+[i] - 1133789548 - Found child 5941 in scoreboard slot 7
+[i] - 1133789550 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133789550 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133789550 - child workerEnv in error state 6
+[✗] - 1133789550 - child workerEnv in error state 6
+[i] - 1133789787 - Found child 5954 in scoreboard slot 7
+[i] - 1133789787 - Found child 5953 in scoreboard slot 6
+[i] - 1133789818 - Found child 5956 in scoreboard slot 9
+[i] - 1133789818 - Found child 5957 in scoreboard slot 6
+[i] - 1133789818 - Found child 5955 in scoreboard slot 8
+[i] - 1133789867 - Found child 5961 in scoreboard slot 6
+[i] - 1133789867 - Found child 5960 in scoreboard slot 9
+[i] - 1133789932 - Found child 5968 in scoreboard slot 9
+[i] - 1133789933 - Found child 5965 in scoreboard slot 6
+[i] - 1133789932 - Found child 5967 in scoreboard slot 8
+[i] - 1133789933 - Found child 5969 in scoreboard slot 10
+[i] - 1133789932 - Found child 5966 in scoreboard slot 7
+[i] - 1133789949 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133789949 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133789954 - child workerEnv in error state 6
+[✗] - 1133789953 - child workerEnv in error state 8
+[i] - 1133789976 - Found child 5970 in scoreboard slot 6
+[i] - 1133789976 - Found child 5971 in scoreboard slot 7
+[i] - 1133789981 - Found child 5972 in scoreboard slot 8
+[i] - 1133789981 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133789981 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133789981 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133789981 - child workerEnv in error state 8
+[✗] - 1133789981 - child workerEnv in error state 9
+[✗] - 1133789981 - child workerEnv in error state 8
+[i] - 1133790071 - Found child 5981 in scoreboard slot 9
+[i] - 1133790072 - Found child 5982 in scoreboard slot 6
+[i] - 1133790118 - Found child 5984 in scoreboard slot 8
+[i] - 1133790118 - Found child 5985 in scoreboard slot 9
+[i] - 1133790207 - Found child 5992 in scoreboard slot 8
+[i] - 1133790207 - Found child 5993 in scoreboard slot 9
+[i] - 1133790207 - Found child 5990 in scoreboard slot 6
+[i] - 1133790207 - Found child 5991 in scoreboard slot 7
+[i] - 1133790223 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133790224 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133790223 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133790226 - child workerEnv in error state 6
+[✗] - 1133790226 - child workerEnv in error state 8
+[✗] - 1133790226 - child workerEnv in error state 7
+[i] - 1133790258 - Found child 5995 in scoreboard slot 7
+[i] - 1133790258 - Found child 5996 in scoreboard slot 8
+[i] - 1133790272 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133790275 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133790278 - child workerEnv in error state 6
+[✗] - 1133790278 - child workerEnv in error state 6
+[i] - 1133790293 - Found child 5997 in scoreboard slot 9
+[i] - 1133790301 - Found child 5998 in scoreboard slot 6
+[i] - 1133790301 - Found child 5999 in scoreboard slot 7
+[i] - 1133790308 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133790308 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133790308 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133790308 - child workerEnv in error state 6
+[✗] - 1133790308 - child workerEnv in error state 8
+[✗] - 1133790308 - child workerEnv in error state 6
+[i] - 1133790380 - Found child 6007 in scoreboard slot 7
+[i] - 1133790380 - Found child 6006 in scoreboard slot 6
+[i] - 1133790380 - Found child 6005 in scoreboard slot 9
+[i] - 1133790410 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133790426 - Found child 6008 in scoreboard slot 8
+[i] - 1133790426 - Found child 6009 in scoreboard slot 9
+[i] - 1133790429 - Found child 6011 in scoreboard slot 7
+[i] - 1133790429 - Found child 6010 in scoreboard slot 6
+[i] - 1133790431 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133790431 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133790431 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133790431 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133790431 - child workerEnv in error state 7
+[✗] - 1133790431 - child workerEnv in error state 6
+[✗] - 1133790431 - child workerEnv in error state 7
+[✗] - 1133790431 - child workerEnv in error state 7
+[i] - 1133790677 - Found child 6028 in scoreboard slot 9
+[i] - 1133790739 - Found child 6036 in scoreboard slot 9
+[i] - 1133790739 - Found child 6033 in scoreboard slot 6
+[i] - 1133790739 - Found child 6035 in scoreboard slot 8
+[i] - 1133790739 - Found child 6034 in scoreboard slot 7
+[i] - 1133790753 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133790753 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133790756 - child workerEnv in error state 6
+[✗] - 1133790756 - child workerEnv in error state 6
+[i] - 1133790780 - Found child 6038 in scoreboard slot 7
+[i] - 1133790780 - Found child 6037 in scoreboard slot 6
+[i] - 1133790780 - Found child 6039 in scoreboard slot 10
+[i] - 1133790811 - Found child 6043 in scoreboard slot 9
+[i] - 1133790811 - Found child 6042 in scoreboard slot 7
+[i] - 1133790811 - Found child 6041 in scoreboard slot 6
+[i] - 1133790814 - Found child 6044 in scoreboard slot 8
+[i] - 1133790815 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133790815 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133790815 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133790815 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133790815 - child workerEnv in error state 6
+[✗] - 1133790815 - child workerEnv in error state 8
+[✗] - 1133790815 - child workerEnv in error state 6
+[✗] - 1133790815 - child workerEnv in error state 8
+[i] - 1133790981 - Found child 6052 in scoreboard slot 6
+[i] - 1133790998 - Found child 6053 in scoreboard slot 7
+[i] - 1133791027 - Found child 6054 in scoreboard slot 9
+[i] - 1133791027 - Found child 6055 in scoreboard slot 8
+[i] - 1133791111 - Found child 6063 in scoreboard slot 8
+[i] - 1133791111 - Found child 6062 in scoreboard slot 9
+[i] - 1133791183 - Found child 6069 in scoreboard slot 7
+[i] - 1133791183 - Found child 6070 in scoreboard slot 9
+[i] - 1133791183 - Found child 6071 in scoreboard slot 8
+[i] - 1133791307 - Found child 6100 in scoreboard slot 7
+[i] - 1133791307 - Found child 6101 in scoreboard slot 8
+[i] - 1133791307 - Found child 6099 in scoreboard slot 6
+[i] - 1133791308 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133791308 - child workerEnv in error state 7
+[i] - 1133791308 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133791308 - child workerEnv in error state 9
+[i] - 1133791308 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133791308 - child workerEnv in error state 8
+[i] - 1133791900 - Found child 6115 in scoreboard slot 10
+[✗] - 1133791903 - 141.154.18.244] Directory index forbidden by rule: /var/www/html/
+[i] - 1133791905 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133791905 - child workerEnv in error state 7
+[i] - 1133796666 - Found child 6259 in scoreboard slot 6
+[i] - 1133796666 - Found child 6260 in scoreboard slot 7
+[i] - 1133796669 - Found child 6261 in scoreboard slot 8
+[i] - 1133796670 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133796670 - child workerEnv in error state 6
+[i] - 1133796670 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133796670 - child workerEnv in error state 6
+[i] - 1133796670 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133796670 - child workerEnv in error state 6
+[i] - 1133797259 - Found child 6277 in scoreboard slot 7
+[i] - 1133797259 - Found child 6276 in scoreboard slot 6
+[i] - 1133797292 - Found child 6280 in scoreboard slot 7
+[i] - 1133797292 - Found child 6278 in scoreboard slot 8
+[i] - 1133797292 - Found child 6279 in scoreboard slot 6
+[i] - 1133797292 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133797292 - child workerEnv in error state 7
+[i] - 1133797292 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133797292 - child workerEnv in error state 6
+[i] - 1133797292 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133797292 - child workerEnv in error state 7
+[i] - 1133797542 - Found child 6285 in scoreboard slot 8
+[i] - 1133797544 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133797544 - child workerEnv in error state 6
+[i] - 1133797853 - Found child 6293 in scoreboard slot 6
+[i] - 1133797853 - Found child 6294 in scoreboard slot 7
+[i] - 1133797878 - Found child 6297 in scoreboard slot 7
+[i] - 1133797878 - Found child 6295 in scoreboard slot 8
+[i] - 1133797878 - Found child 6296 in scoreboard slot 6
+[i] - 1133797880 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133797880 - child workerEnv in error state 7
+[i] - 1133797880 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133797880 - child workerEnv in error state 7
+[i] - 1133797880 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133797880 - child workerEnv in error state 6
+[i] - 1133798131 - Found child 6302 in scoreboard slot 8
+[i] - 1133798132 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133798132 - child workerEnv in error state 6
+[i] - 1133798477 - Found child 6310 in scoreboard slot 6
+[i] - 1133798520 - Found child 6315 in scoreboard slot 6
+[i] - 1133798520 - Found child 6316 in scoreboard slot 7
+[i] - 1133798520 - Found child 6314 in scoreboard slot 8
+[i] - 1133798522 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133798522 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133798522 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133798522 - child workerEnv in error state 6
+[✗] - 1133798522 - child workerEnv in error state 7
+[✗] - 1133798522 - child workerEnv in error state 6
+[i] - 1133798767 - Found child 6333 in scoreboard slot 8
+[i] - 1133798781 - Found child 6335 in scoreboard slot 7
+[i] - 1133798828 - Found child 6339 in scoreboard slot 8
+[i] - 1133798828 - Found child 6340 in scoreboard slot 6
+[i] - 1133798828 - Found child 6338 in scoreboard slot 7
+[i] - 1133798829 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133798829 - child workerEnv in error state 7
+[i] - 1133798829 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133798829 - child workerEnv in error state 6
+[i] - 1133798829 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133798829 - child workerEnv in error state 7
+[i] - 1133799043 - Found child 6351 in scoreboard slot 8
+[i] - 1133799043 - Found child 6350 in scoreboard slot 7
+[i] - 1133799044 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133799044 - child workerEnv in error state 6
+[i] - 1133799044 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133799044 - child workerEnv in error state 6
+[i] - 1133799394 - Found child 6368 in scoreboard slot 8
+[i] - 1133799394 - Found child 6367 in scoreboard slot 7
+[i] - 1133799394 - Found child 6366 in scoreboard slot 6
+[i] - 1133799396 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133799396 - child workerEnv in error state 6
+[i] - 1133799396 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133799396 - child workerEnv in error state 6
+[i] - 1133799396 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133799396 - child workerEnv in error state 6
+[i] - 1133799685 - Found child 6387 in scoreboard slot 7
+[i] - 1133799685 - Found child 6386 in scoreboard slot 6
+[i] - 1133799685 - Found child 6385 in scoreboard slot 8
+[i] - 1133799689 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133799689 - child workerEnv in error state 6
+[i] - 1133799689 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133799689 - child workerEnv in error state 6
+[i] - 1133799689 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133799689 - child workerEnv in error state 6
+[i] - 1133799960 - Found child 6400 in scoreboard slot 7
+[i] - 1133799960 - Found child 6399 in scoreboard slot 6
+[i] - 1133799960 - Found child 6398 in scoreboard slot 8
+[i] - 1133799965 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133799965 - child workerEnv in error state 6
+[i] - 1133799965 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133799965 - child workerEnv in error state 6
+[i] - 1133799965 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133799965 - child workerEnv in error state 6
+[i] - 1133800308 - Found child 6420 in scoreboard slot 6
+[i] - 1133800309 - Found child 6421 in scoreboard slot 7
+[i] - 1133800309 - Found child 6422 in scoreboard slot 8
+[i] - 1133800312 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133800312 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133800312 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133800312 - child workerEnv in error state 6
+[✗] - 1133800312 - child workerEnv in error state 6
+[✗] - 1133800312 - child workerEnv in error state 6
+[i] - 1133800566 - Found child 6434 in scoreboard slot 7
+[i] - 1133800566 - Found child 6433 in scoreboard slot 6
+[i] - 1133800602 - Found child 6435 in scoreboard slot 8
+[i] - 1133800623 - Found child 6437 in scoreboard slot 7
+[i] - 1133800697 - Found child 6443 in scoreboard slot 7
+[i] - 1133800697 - Found child 6442 in scoreboard slot 6
+[i] - 1133800799 - Found child 6453 in scoreboard slot 10
+[i] - 1133800799 - Found child 6451 in scoreboard slot 7
+[i] - 1133800799 - Found child 6452 in scoreboard slot 8
+[i] - 1133800806 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133800806 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133800806 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133800806 - child workerEnv in error state 9
+[✗] - 1133800806 - child workerEnv in error state 6
+[✗] - 1133800806 - child workerEnv in error state 6
+[✗] - 1133801104 - 216.216.185.130] Directory index forbidden by rule: /var/www/html/
+[i] - 1133803897 - Found child 6561 in scoreboard slot 10
+[✗] - 1133803899 - 218.75.106.250] Directory index forbidden by rule: /var/www/html/
+[i] - 1133803901 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133803901 - child workerEnv in error state 6
+[i] - 1133804157 - Found child 6569 in scoreboard slot 8
+[i] - 1133804157 - Found child 6568 in scoreboard slot 7
+[i] - 1133804158 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133804158 - child workerEnv in error state 6
+[i] - 1133804158 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133804158 - child workerEnv in error state 6
+[i] - 1133804438 - Found child 6577 in scoreboard slot 7
+[i] - 1133804438 - Found child 6578 in scoreboard slot 8
+[i] - 1133804439 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133804439 - child workerEnv in error state 6
+[i] - 1133804439 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133804439 - child workerEnv in error state 6
+[i] - 1133804762 - Found child 6585 in scoreboard slot 7
+[i] - 1133804762 - Found child 6586 in scoreboard slot 8
+[i] - 1133804766 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133804766 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133804766 - child workerEnv in error state 6
+[✗] - 1133804766 - child workerEnv in error state 6
+[i] - 1133805040 - Found child 6595 in scoreboard slot 8
+[i] - 1133805040 - Found child 6594 in scoreboard slot 7
+[i] - 1133805041 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133805041 - child workerEnv in error state 6
+[i] - 1133805041 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133805041 - child workerEnv in error state 6
+[i] - 1133805335 - Found child 6601 in scoreboard slot 8
+[i] - 1133805335 - Found child 6600 in scoreboard slot 7
+[i] - 1133805335 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133805335 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133805335 - child workerEnv in error state 6
+[✗] - 1133805335 - child workerEnv in error state 6
+[i] - 1133805624 - Found child 6609 in scoreboard slot 7
+[i] - 1133805626 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133805626 - child workerEnv in error state 6
+[i] - 1133806256 - Found child 6639 in scoreboard slot 7
+[i] - 1133806256 - Found child 6638 in scoreboard slot 8
+[i] - 1133806258 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133806258 - child workerEnv in error state 6
+[i] - 1133806258 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133806258 - child workerEnv in error state 6
+[i] - 1133806545 - Found child 6652 in scoreboard slot 7
+[i] - 1133806545 - Found child 6651 in scoreboard slot 8
+[i] - 1133806547 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133806547 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133806547 - child workerEnv in error state 6
+[✗] - 1133806547 - child workerEnv in error state 6
+[i] - 1133806851 - Found child 6670 in scoreboard slot 7
+[i] - 1133806851 - Found child 6669 in scoreboard slot 8
+[i] - 1133806853 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133806853 - child workerEnv in error state 6
+[i] - 1133806853 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133806853 - child workerEnv in error state 6
+[i] - 1133807166 - Found child 6684 in scoreboard slot 7
+[i] - 1133807249 - Found child 6688 in scoreboard slot 8
+[i] - 1133807253 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133807253 - child workerEnv in error state 6
+[i] - 1133807257 - Found child 6689 in scoreboard slot 7
+[i] - 1133807257 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133807257 - child workerEnv in error state 7
+[i] - 1133807751 - Found child 6707 in scoreboard slot 8
+[i] - 1133807751 - Found child 6708 in scoreboard slot 7
+[i] - 1133807753 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133807753 - child workerEnv in error state 6
+[i] - 1133807753 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133807753 - child workerEnv in error state 6
+[i] - 1133808054 - Found child 6719 in scoreboard slot 7
+[i] - 1133808054 - Found child 6718 in scoreboard slot 8
+[i] - 1133808054 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133808054 - child workerEnv in error state 6
+[i] - 1133808054 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133808054 - child workerEnv in error state 6
+[i] - 1133808351 - Found child 6725 in scoreboard slot 7
+[i] - 1133808351 - Found child 6724 in scoreboard slot 8
+[i] - 1133808353 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133808353 - child workerEnv in error state 6
+[i] - 1133808353 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133808353 - child workerEnv in error state 6
+[i] - 1133808630 - Found child 6733 in scoreboard slot 8
+[i] - 1133808631 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133808631 - child workerEnv in error state 6
+[i] - 1133808963 - Found child 6740 in scoreboard slot 7
+[i] - 1133808963 - Found child 6741 in scoreboard slot 8
+[i] - 1133808964 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133808964 - child workerEnv in error state 6
+[i] - 1133808964 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133808964 - child workerEnv in error state 6
+[i] - 1133809243 - Found child 6750 in scoreboard slot 8
+[i] - 1133809243 - Found child 6749 in scoreboard slot 7
+[i] - 1133809244 - ok /etc/httpd/conf/workers2.properties
+[i] - 1133809244 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133809244 - child workerEnv in error state 6
+[✗] - 1133809244 - child workerEnv in error state 6
+[i] - 1133809254 - Found child 6751 in scoreboard slot 10
+[i] - 1133809254 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133809254 - child workerEnv in error state 6
+[✗] - 1133809256 - 68.228.3.15] Directory index forbidden by rule: /var/www/html/
+[i] - 1133809860 - Found child 6780 in scoreboard slot 7
+[i] - 1133809864 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133809864 - child workerEnv in error state 6
+[i] - 1133810048 - Found child 6784 in scoreboard slot 8
+[✗] - 1133810049 - 61.220.139.68] Directory index forbidden by rule: /var/www/html/
+[i] - 1133810051 - ok /etc/httpd/conf/workers2.properties
+[✗] - 1133810051 - child workerEnv in error state 6
+[i] - 1133810155 - Found child 6791 in scoreboard slot 8
+[i] - 1133810155 - Found child 6790 in scoreboard slot 7
+[i] - 1133810157 - ok /etc/httpd/conf/workers2.properties
