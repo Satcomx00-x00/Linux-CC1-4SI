@@ -32,5 +32,7 @@ while IFS= read -r line; do
     timestamp=$(date -d "$datetime" +%s) # convertit la date en timestamp
 
     echo "[$icon] - $timestamp - $message" # affiche le message avec l'icône et le timestamp
+    # generate the output file 
+    echo "[$icon] - $timestamp - $message" >> "output.log"
 
 done <"$logFile"
